@@ -2045,8 +2045,7 @@
 		"price": 333,
 		"category": "Animal",
 		"defname": "WildBoar"
-{
-	"items" : [
+	},
 	{
 		"abr": "beer",
 		"price": 20,
