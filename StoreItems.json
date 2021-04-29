@@ -8705,7 +8705,7 @@
 		"price": 650,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zweihander"
-	},
+	}
 	],
 	"total": 1457
 }
