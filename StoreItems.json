@@ -752,79 +752,79 @@
 	},
 	{
 		"abr": "chickenegg(unfert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggChickenUnfertilized"
 	},
 	{
 		"abr": "chickenegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggChickenFertilized"
 	},
 	{
 		"abr": "cobraegg(fert.)",
-		"price": 67,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized"
 	},
 	{
 		"abr": "iguanaegg(fert.)",
-		"price": 42,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanaFertilized"
 	},
 	{
 		"abr": "tortoiseegg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTortoiseFertilized"
 	},
 	{
 		"abr": "cassowaryegg(fert.)",
-		"price": 32,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCassowaryFertilized"
 	},
 	{
 		"abr": "emuegg(fert.)",
-		"price": 30,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggEmuFertilized"
 	},
 	{
 		"abr": "ostrichegg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized"
 	},
 	{
 		"abr": "turkeyegg(fert.)",
-		"price": 18,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTurkeyFertilized"
 	},
 	{
 		"abr": "duckegg(unfert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggDuckUnfertilized"
 	},
 	{
 		"abr": "duckegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDuckFertilized"
 	},
 	{
 		"abr": "gooseegg(unfert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggGooseUnfertilized"
 	},
 	{
 		"abr": "gooseegg(fert.)",
-		"price": 18,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggGooseFertilized"
 	},
@@ -4130,7 +4130,7 @@
 	},
 	{
 		"abr": "harpyegg(fert.)",
-		"price": 167,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "MG_EggHarpyFertilized"
 	},
@@ -5372,7 +5372,7 @@
 	},
 	{
 		"abr": "platypusegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggPlatypusFertilized"
 	},
@@ -5726,7 +5726,7 @@
 	},
 	{
 		"abr": "kyulenbead",
-		"price": 5000,
+		"price": 500000000,
 		"category": "Artifacts",
 		"defname": "Foxbead"
 	},
@@ -6293,12 +6293,6 @@
 		"price": 800,
 		"category": "Gun Nut",
 		"defname": "GN_MGThree"
-	},
-	{
-		"abr": "mg338",
-		"price": 850,
-		"category": "Gun Nut",
-		"defname": "GN_SSMG"
 	},
 	{
 		"abr": "mini-14",
@@ -8705,7 +8699,775 @@
 		"price": 650,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Zweihander"
+	},
+	{
+		"abr": "armytent",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "ArmyTent"
+	},
+	{
+		"abr": "henry.45-70tornado",
+		"price": 533,
+		"category": "Ranged weapons",
+		"defname": "TMC_IAR_Tornado"
+	},
+	{
+		"abr": "m52gramps",
+		"price": 833,
+		"category": "Ranged weapons",
+		"defname": "TMC_IAR_Gramps"
+	},
+	{
+		"abr": "mac-10moozi",
+		"price": 450,
+		"category": "Ranged weapons",
+		"defname": "TMC_IAR_MacTen"
+	},
+	{
+		"abr": "mountedtype-85hmgturret",
+		"price": 1017,
+		"category": "Security",
+		"defname": "PLA_Turret85HMG"
+	},
+	{
+		"abr": "mp9cleanup",
+		"price": 608,
+		"category": "Ranged weapons",
+		"defname": "TMC_IAR_Cleanup"
+	},
+	{
+		"abr": "pf-98",
+		"price": 1667,
+		"category": "Ranged weapons",
+		"defname": "PLA_PFNinetyEight"
+	},
+	{
+		"abr": "pkdakka",
+		"price": 583,
+		"category": "Ranged weapons",
+		"defname": "TMC_IAR_Dakka"
+	},
+	{
+		"abr": "qbb-95-lsw",
+		"price": 733,
+		"category": "Ranged weapons",
+		"defname": "PLA_QBBNinetyFiveLSW"
+	},
+	{
+		"abr": "qbs-09",
+		"price": 483,
+		"category": "Ranged weapons",
+		"defname": "PLA_QBSZeroNine"
+	},
+	{
+		"abr": "qbu10",
+		"price": 1075,
+		"category": "Ranged weapons",
+		"defname": "PLA_QBUTen"
+	},
+	{
+		"abr": "qbu88",
+		"price": 875,
+		"category": "Ranged weapons",
+		"defname": "PLA_QBUEightyEight"
+	},
+	{
+		"abr": "qbz-191",
+		"price": 800,
+		"category": "Ranged weapons",
+		"defname": "PLA_QBZOneNineOne"
+	},
+	{
+		"abr": "qbz-95-1",
+		"price": 467,
+		"category": "Ranged weapons",
+		"defname": "PLA_QBZNinetyFive"
+	},
+	{
+		"abr": "qcw-05",
+		"price": 592,
+		"category": "Ranged weapons",
+		"defname": "PLA_QCWZeroFive"
+	},
+	{
+		"abr": "qlu11",
+		"price": 808,
+		"category": "Ranged weapons",
+		"defname": "PLA_QLUEleven"
+	},
+	{
+		"abr": "qsz92",
+		"price": 263,
+		"category": "Ranged weapons",
+		"defname": "PLA_QSZNinetyTwo"
+	},
+	{
+		"abr": "qts-11-oicw",
+		"price": 1058,
+		"category": "Ranged weapons",
+		"defname": "PLA_QTSEleven"
+	},
+	{
+		"abr": "scrapshelter",
+		"price": 164,
+		"category": "Furniture",
+		"defname": "ScrapShelter"
+	},
+	{
+		"abr": "skorpionevostinger",
+		"price": 642,
+		"category": "Ranged weapons",
+		"defname": "TMC_IAR_Stinger"
+	},
+	{
+		"abr": "advancedholodeck",
+		"price": 3308,
+		"category": "Recreation",
+		"defname": "Holodeck_Standard"
+	},
+	{
+		"abr": "alc",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "ALC"
+	},
+	{
+		"abr": "antigraintorpedo",
+		"price": 2500,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_Antimatter"
+	},
+	{
+		"abr": "archocat",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archocat"
+	},
+	{
+		"abr": "archoffalo",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archoffalo"
+	},
+	{
+		"abr": "archojerboa",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archojerboa"
+	},
+	{
+		"abr": "archolifepod",
+		"price": 1667,
+		"category": "Items",
+		"defname": "ArcholifePod"
+	},
+	{
+		"abr": "archolope",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archolope"
+	},
+	{
+		"abr": "archomutt",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archomutt"
+	},
+	{
+		"abr": "archopanda",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archopanda"
+	},
+	{
+		"abr": "archospider",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archospider"
+	},
+	{
+		"abr": "archostrich",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archostrich"
+	},
+	{
+		"abr": "archostrichegg(fert.)",
+		"price": 167,
+		"category": "Eggs (fert.)",
+		"defname": "EggArchostrichFertilized"
+	},
+	{
+		"abr": "archostrichegg(unfert.)",
+		"price": 38,
+		"category": "Eggs (unfert.)",
+		"defname": "EggArchostrichUnfertilized"
+	},
+	{
+		"abr": "archotechear",
+		"price": 3000,
+		"category": "Archotech",
+		"defname": "SoSArchotechEar"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechHeart"
+	},
+	{
+		"abr": "archotechjaw",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechJaw"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechKidney"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechLung"
+	},
+	{
+		"abr": "archotechnose",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechNose"
+	},
+	{
+		"abr": "archotechpillaralpha",
+		"price": 16833,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarA"
+	},
+	{
+		"abr": "archotechpillarbeta",
+		"price": 16833,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarB"
+	},
+	{
+		"abr": "archotechpillardelta",
+		"price": 16833,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarD"
+	},
+	{
+		"abr": "archotechpillargamma",
+		"price": 16833,
+		"category": "Misc",
+		"defname": "ShipArchotechPillarC"
+	},
+	{
+		"abr": "archotechskin",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechSkin"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechSpine"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "SoSArchotechStomach"
+	},
+	{
+		"abr": "archotechuplink",
+		"price": 7783,
+		"category": "Misc",
+		"defname": "ArchotechUplink"
+	},
+	{
+		"abr": "archothrumbo",
+		"price": 16667,
+		"category": "Animal",
+		"defname": "Archothrumbo"
+	},
+	{
+		"abr": "archotortoise",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "Archotortoise"
+	},
+	{
+		"abr": "archotortoiseegg(fert.)",
+		"price": 38,
+		"category": "Eggs (fert.)",
+		"defname": "EggArchotortoiseFertilized"
+	},
+	{
+		"abr": "astromite",
+		"price": 167,
+		"category": "Animal",
+		"defname": "Astromite"
+	},
+	{
+		"abr": "atom",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "ATOM"
+	},
+	{
+		"abr": "basicholodeck",
+		"price": 1817,
+		"category": "Recreation",
+		"defname": "Holodeck_Basic"
+	},
+	{
+		"abr": "beamsplitter",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "BeamSplitter"
+	},
+	{
+		"abr": "beararmor",
+		"price": 1442,
+		"category": "Headgear",
+		"defname": "Apparel_BearArmor"
+	},
+	{
+		"abr": "braixen",
+		"price": 4000,
+		"category": "Animal",
+		"defname": "Braixen"
+	},
+	{
+		"abr": "braixenleather",
+		"price": 83,
+		"category": "Leathers",
+		"defname": "Braixen_leather"
+	},
+	{
+		"abr": "cargoshuttle",
+		"price": 4367,
+		"category": "Furniture",
+		"defname": "CargoShuttle"
+	},
+	{
+		"abr": "cargoshuttle(hovermode)",
+		"price": 7500,
+		"category": "Animal",
+		"defname": "ShuttleCargoRace"
+	},
+	{
+		"abr": "catarmor",
+		"price": 442,
+		"category": "Headgear",
+		"defname": "Apparel_CatArmor"
+	},
+	{
+		"abr": "catofpreyarmor",
+		"price": 617,
+		"category": "Headgear",
+		"defname": "Apparel_CatOfPreyArmor"
+	},
+	{
+		"abr": "controlrodactuator",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "ControlRodActuator"
+	},
+	{
+		"abr": "cosmopillar",
+		"price": 833,
+		"category": "Animal",
+		"defname": "Cosmopillar"
+	},
+	{
+		"abr": "depleteduranium",
+		"price": 13,
+		"category": "Rimatomics Product",
+		"defname": "DepletedUraniumPellets"
+	},
+	{
+		"abr": "dogarmorvest",
+		"price": 558,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_DogArmorVest"
+	},
+	{
+		"abr": "doggambeson",
+		"price": 400,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_DogGambeson"
+	},
+	{
+		"abr": "dogscarf",
+		"price": 83,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_DogScarf"
+	},
+	{
+		"abr": "driveactuator",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "DriveActuator"
+	},
+	{
+		"abr": "dusabotround",
+		"price": 83,
+		"category": "Sabot Rounds",
+		"defname": "RailgunSabotDU"
+	},
+	{
+		"abr": "elephanthowdah",
+		"price": 650,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_Howdah"
+	},
+	{
+		"abr": "emptorpedo",
+		"price": 433,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_EMP"
+	},
+	{
+		"abr": "entanglementmanifold",
+		"price": 6667,
+		"category": "Items",
+		"defname": "SoSEntanglementManifold"
+	},
+	{
+		"abr": "ers",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "ERS"
+	},
+	{
+		"abr": "evahelmet",
+		"price": 675,
+		"category": "Headgear",
+		"defname": "Apparel_SpaceSuitHelmet"
+	},
+	{
+		"abr": "evasuit",
+		"price": 1150,
+		"category": "Apparel",
+		"defname": "Apparel_SpaceSuitBody"
+	},
+	{
+		"abr": "exoticparticles",
+		"price": 167,
+		"category": "Items",
+		"defname": "ArchotechExoticParticles"
+	},
+	{
+		"abr": "foxbandana",
+		"price": 83,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_FoxBandana"
+	},
+	{
+		"abr": "foxbandanared",
+		"price": 83,
+		"category": "[Animal Apparel]",
+		"defname": "Apparel_FoxBandanaRed"
+	},
+	{
+		"abr": "fuelrods",
+		"price": 1667,
+		"category": "Nuclear fuel",
+		"defname": "FuelRods"
+	},
+	{
+		"abr": "fuelrodsmox",
+		"price": 3333,
+		"category": "Nuclear fuel",
+		"defname": "FuelRodsMOX"
+	},
+	{
+		"abr": "heavycargoshuttle",
+		"price": 6317,
+		"category": "Furniture",
+		"defname": "HeavyShuttle"
+	},
+	{
+		"abr": "heavycargoshuttle(hovermode)",
+		"price": 16667,
+		"category": "Animal",
+		"defname": "ShuttleHeavyRace"
+	},
+	{
+		"abr": "heavyevahelmet",
+		"price": 1500,
+		"category": "Headgear",
+		"defname": "Apparel_SpaceSuitHelmetHeavy"
+	},
+	{
+		"abr": "heavyevasuit",
+		"price": 4117,
+		"category": "Apparel",
+		"defname": "Apparel_SpaceSuitBodyHeavy"
+	},
+	{
+		"abr": "high-explosivetorpedo",
+		"price": 433,
+		"category": "Torpedoes",
+		"defname": "ShipTorpedo_HighExplosive"
+	},
+	{
+		"abr": "hullfoamcanister",
+		"price": 33,
+		"category": "Items",
+		"defname": "HullFoam"
+	},
+	{
+		"abr": "kyulenenergyshieldarmor",
+		"price": 2000,
+		"category": "Apparel",
+		"defname": "Apparel_KyulenArmor"
+	},
+	{
+		"abr": "lensmodule",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "LenseModule"
+	},
+	{
+		"abr": "mechanitecocktails",
+		"price": 1675,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeMechanite"
+	},
+	{
+		"abr": "mechanitedisassemblercore",
+		"price": 6667,
+		"category": "Items",
+		"defname": "ArchotechMechaniteCore"
+	},
+	{
+		"abr": "mechaniterepairgel",
+		"price": 833,
+		"category": "Items",
+		"defname": "ArchotechRepairGel"
+	},
+	{
+		"abr": "meps",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "MEPS"
+	},
+	{
+		"abr": "minimalshipbridge",
+		"price": 425,
+		"category": "Furniture",
+		"defname": "ShipPilotSeatMini"
+	},
+	{
+		"abr": "missilefuselage",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "MissileFuselage"
+	},
+	{
+		"abr": "moppmask(desert)",
+		"price": 500,
+		"category": "Mopp",
+		"defname": "Apparel_MoppMaskDesert"
+	},
+	{
+		"abr": "moppmask(snow)",
+		"price": 500,
+		"category": "Mopp",
+		"defname": "Apparel_MoppMaskSnow"
+	},
+	{
+		"abr": "moppmask(woodland)",
+		"price": 500,
+		"category": "Mopp",
+		"defname": "Apparel_MoppMaskWoodland"
+	},
+	{
+		"abr": "moppsuit(desert)",
+		"price": 792,
+		"category": "Mopp",
+		"defname": "Apparel_MoppSuitDesert"
+	},
+	{
+		"abr": "moppsuit(snow)",
+		"price": 792,
+		"category": "Mopp",
+		"defname": "Apparel_MoppSuitSnow"
+	},
+	{
+		"abr": "moppsuit(woodland)",
+		"price": 792,
+		"category": "Mopp",
+		"defname": "Apparel_MoppSuitWoodland"
+	},
+	{
+		"abr": "nuclearwarhead",
+		"price": 24000,
+		"category": "Rimatomics Product",
+		"defname": "FissionWarhead"
+	},
+	{
+		"abr": "personalshuttle",
+		"price": 2208,
+		"category": "Furniture",
+		"defname": "PersonalShuttle"
+	},
+	{
+		"abr": "personalshuttle(hovermode)",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "ShuttlePersonalRace"
+	},
+	{
+		"abr": "plutonium",
+		"price": 100,
+		"category": "Rimatomics Product",
+		"defname": "Plutonium"
+	},
+	{
+		"abr": "potassiumiodide",
+		"price": 53,
+		"category": "Drugs",
+		"defname": "PotassiumIodide"
+	},
+	{
+		"abr": "psychicflayercore",
+		"price": 6667,
+		"category": "Items",
+		"defname": "ArchotechPsychicCore"
+	},
+	{
+		"abr": "psychicmanipulator",
+		"price": 3333,
+		"category": "Archotech",
+		"defname": "SoSPsychicManipulator"
+	},
+	{
+		"abr": "psychicpredictor",
+		"price": 1667,
+		"category": "Archotech",
+		"defname": "SoSPsychicPredictor"
+	},
+	{
+		"abr": "r.t.g",
+		"price": 4333,
+		"category": "Nuclear",
+		"defname": "RimatomicsRTG"
+	},
+	{
+		"abr": "radiationmask",
+		"price": 244,
+		"category": "Hazmat",
+		"defname": "Apparel_RadiationMask"
+	},
+	{
+		"abr": "radiationsuit",
+		"price": 383,
+		"category": "Hazmat",
+		"defname": "Apparel_RadiationSuit"
+	},
+	{
+		"abr": "recyclotron",
+		"price": 10292,
+		"category": "Production",
+		"defname": "ArchoRecycler"
+	},
+	{
+		"abr": "rocketengine",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "RocketEngine"
+	},
+	{
+		"abr": "sabotround",
+		"price": 17,
+		"category": "Sabot Rounds",
+		"defname": "RailgunSabot"
+	},
+	{
+		"abr": "sapientholodeck",
+		"price": 10200,
+		"category": "Recreation",
+		"defname": "Holodeck_AI"
+	},
+	{
+		"abr": "scad",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "SCAD"
+	},
+	{
+		"abr": "shipbridge",
+		"price": 1208,
+		"category": "Furniture",
+		"defname": "ShipPilotSeat"
+	},
+	{
+		"abr": "shipcapacitor",
+		"price": 883,
+		"category": "Furniture",
+		"defname": "ShipCapacitorSmall"
+	},
+	{
+		"abr": "shipsalvage",
+		"price": 1750,
+		"category": "Special",
+		"defname": "ShipChunkSalvage"
+	},
+	{
+		"abr": "stellapede",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Stellapede"
+	},
+	{
+		"abr": "survivalbelt",
+		"price": 178,
+		"category": "Armor",
+		"defname": "Apparel_SpaceSurvivalBelt"
+	},
+	{
+		"abr": "synthreadtail",
+		"price": 808,
+		"category": "Bionic",
+		"defname": "SynthTail"
+	},
+	{
+		"abr": "targetingchip",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "TargetingChip"
+	},
+	{
+		"abr": "thrumboarmor",
+		"price": 2225,
+		"category": "Headgear",
+		"defname": "Apparel_ThrumboArmor"
+	},
+	{
+		"abr": "thrumbogear",
+		"price": 290,
+		"category": "Headgear",
+		"defname": "Apparel_ThrumboGear"
+	},
+	{
+		"abr": "turbineblades",
+		"price": 2,
+		"category": "Rimatomics Product",
+		"defname": "turbineBlade"
 	}
 	],
-	"total": 1457
+	"total": 1585
 }
