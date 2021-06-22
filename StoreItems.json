@@ -1707,7 +1707,7 @@
 	{
 		"abr": "jade",
 		"price": 8,
-		"category": "Raw resources",
+		"category": "Gemstones",
 		"defname": "Jade"
 	},
 	{
@@ -4873,48 +4873,6 @@
 		"defname": "Meat_CynobunHirsutus"
 	},
 	{
-		"abr": "sraf:canary",
-		"price": 20258,
-		"category": "Buildings",
-		"defname": "SRAF"
-	},
-	{
-		"abr": "sraf:tek-7",
-		"price": 31292,
-		"category": "Buildings",
-		"defname": "SRAFTek"
-	},
-	{
-		"abr": "srtsmk.i:skip",
-		"price": 9150,
-		"category": "Buildings",
-		"defname": "SRTSSkip"
-	},
-	{
-		"abr": "srtsmk.ii:albatross",
-		"price": 29875,
-		"category": "Buildings",
-		"defname": "SRTSMkII"
-	},
-	{
-		"abr": "srtsmk.iii:phoenix",
-		"price": 52792,
-		"category": "Buildings",
-		"defname": "SRTSMkIII"
-	},
-	{
-		"abr": "srtsmk.iiip:pelican",
-		"price": 61100,
-		"category": "Buildings",
-		"defname": "SRTSMkIIIp"
-	},
-	{
-		"abr": "srtsmk.iv:genesis",
-		"price": 218617,
-		"category": "Buildings",
-		"defname": "SRTSMkIV"
-	},
-	{
 		"abr": "starfleetcolonygradereplicator",
 		"price": 1475,
 		"category": "Production",
@@ -4961,12 +4919,6 @@
 		"price": 417,
 		"category": "Apparel",
 		"defname": "Apparel_StarfleetTactical"
-	},
-	{
-		"abr": "superpod",
-		"price": 6958,
-		"category": "Buildings",
-		"defname": "SRTSSuperpod"
 	},
 	{
 		"abr": "symbiotejar(immature)",
@@ -5051,48 +5003,6 @@
 		"price": 2000,
 		"category": "Ranged",
 		"defname": "O21_SG_TransphaseEradicationRod"
-	},
-	{
-		"abr": "unscbroadsword",
-		"price": 19300,
-		"category": "Buildings",
-		"defname": "UNSC_Broadsword"
-	},
-	{
-		"abr": "unscfalcon",
-		"price": 5558,
-		"category": "Buildings",
-		"defname": "UNSC_Falcon"
-	},
-	{
-		"abr": "unschornet",
-		"price": 5858,
-		"category": "Buildings",
-		"defname": "UNSC_Hornet"
-	},
-	{
-		"abr": "unsclongsword",
-		"price": 20058,
-		"category": "Buildings",
-		"defname": "UNSC"
-	},
-	{
-		"abr": "unscpelican",
-		"price": 11025,
-		"category": "Buildings",
-		"defname": "UNSC_Pelican"
-	},
-	{
-		"abr": "unscsabre",
-		"price": 20400,
-		"category": "Buildings",
-		"defname": "UNSC_Sabre"
-	},
-	{
-		"abr": "unscwasp",
-		"price": 3642,
-		"category": "Buildings",
-		"defname": "UNSC_Wasp"
 	},
 	{
 		"abr": "vulcanmeat",
@@ -6841,12 +6751,6 @@
 		"defname": "KIT_Gun_Arquebus"
 	},
 	{
-		"abr": "arquebus",
-		"price": 236,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_Arquebus_R"
-	},
-	{
 		"abr": "bayonetmusket",
 		"price": 358,
 		"category": "Ranged weapons",
@@ -6859,22 +6763,10 @@
 		"defname": "KIT_Beans"
 	},
 	{
-		"abr": "blackpowder",
-		"price": 1,
-		"category": "Manufactured",
-		"defname": "BA_BlackPowder"
-	},
-	{
 		"abr": "blunderbuss",
 		"price": 244,
 		"category": "Ranged weapons",
 		"defname": "KIT_Gun_Blunderbuss"
-	},
-	{
-		"abr": "blunderbuss",
-		"price": 332,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_Blunderbuss_R"
 	},
 	{
 		"abr": "brazilnuts",
@@ -6899,12 +6791,6 @@
 		"price": 20,
 		"category": "Condiments",
 		"defname": "KIT_CashewNut"
-	},
-	{
-		"abr": "chestplate",
-		"price": 260,
-		"category": "Armor",
-		"defname": "BA_Chestplate"
 	},
 	{
 		"abr": "dolabra",
@@ -6959,24 +6845,6 @@
 		"price": 4,
 		"category": "Musts and syrups",
 		"defname": "KIT_GuaranaSyrup"
-	},
-	{
-		"abr": "gunsmithy",
-		"price": 271,
-		"category": "Production",
-		"defname": "BA_FueledGunSmithy"
-	},
-	{
-		"abr": "handculverin",
-		"price": 750,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_HandCannon_R"
-	},
-	{
-		"abr": "handgonne",
-		"price": 136,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_HandCannon_S"
 	},
 	{
 		"abr": "handmortar",
@@ -7081,12 +6949,6 @@
 		"defname": "TMC_SG_MP155Ultima"
 	},
 	{
-		"abr": "ishibiya",
-		"price": 205,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_Emishi_H"
-	},
-	{
 		"abr": "ismgmp7",
 		"price": 633,
 		"category": "TMC SMGs",
@@ -7105,18 +6967,6 @@
 		"defname": "KIT_RawJaboticaba"
 	},
 	{
-		"abr": "jezailmusket",
-		"price": 280,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_Jezail_R"
-	},
-	{
-		"abr": "jezailshortmusket",
-		"price": 160,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_Jezail_P"
-	},
-	{
 		"abr": "lavishbeanstew",
 		"price": 67,
 		"category": "Meals",
@@ -7133,12 +6983,6 @@
 		"price": 2,
 		"category": "Vegetarian",
 		"defname": "KIT_Maniocs"
-	},
-	{
-		"abr": "morion",
-		"price": 104,
-		"category": "Headgear",
-		"defname": "BA_Morion"
 	},
 	{
 		"abr": "12.7mmammobox",
@@ -7345,18 +7189,6 @@
 		"defname": "KIT_Shield_Scutum"
 	},
 	{
-		"abr": "shortblunderbuss",
-		"price": 201,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_Blunderbuss_P"
-	},
-	{
-		"abr": "shortwheellockmusket",
-		"price": 326,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_Wheellock_P"
-	},
-	{
 		"abr": "styerauga3",
 		"price": 750,
 		"category": "TMC Assualt Rifles",
@@ -7369,52 +7201,10 @@
 		"defname": "Itzal_SupMG"
 	},
 	{
-		"abr": "tanegashimamusket",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_Tanegashima_R"
-	},
-	{
-		"abr": "tanegashimashortmusket",
-		"price": 233,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_Tanegashima_P"
-	},
-	{
-		"abr": "teppo",
-		"price": 350,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_Emishi_R"
-	},
-	{
 		"abr": "tmcweapontable",
 		"price": 358,
 		"category": "Production",
 		"defname": "TableTMC"
-	},
-	{
-		"abr": "triplehandgonne",
-		"price": 283,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_HandCannon_T"
-	},
-	{
-		"abr": "triplemusket",
-		"price": 251,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_Tanegashima_T"
-	},
-	{
-		"abr": "wallgun",
-		"price": 1108,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_WallGun"
-	},
-	{
-		"abr": "wheellockmusket",
-		"price": 425,
-		"category": "Ranged weapons",
-		"defname": "BA_Gun_Wheellock_R"
 	},
 	{
 		"abr": "xrassaultrifle",
@@ -7537,24 +7327,6 @@
 		"defname": "TMC_IAR_Stinger"
 	},
 	{
-		"abr": "alc",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "ALC"
-	},
-	{
-		"abr": "atom",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "ATOM"
-	},
-	{
-		"abr": "beamsplitter",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "BeamSplitter"
-	},
-	{
 		"abr": "beararmor",
 		"price": 1442,
 		"category": "Headgear",
@@ -7585,18 +7357,6 @@
 		"defname": "Apparel_CatOfPreyArmor"
 	},
 	{
-		"abr": "controlrodactuator",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "ControlRodActuator"
-	},
-	{
-		"abr": "depleteduranium",
-		"price": 13,
-		"category": "Rimatomics Product",
-		"defname": "DepletedUraniumPellets"
-	},
-	{
 		"abr": "dogarmorvest",
 		"price": 558,
 		"category": "[Animal Apparel]",
@@ -7615,28 +7375,10 @@
 		"defname": "Apparel_DogScarf"
 	},
 	{
-		"abr": "driveactuator",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "DriveActuator"
-	},
-	{
-		"abr": "dusabotround",
-		"price": 83,
-		"category": "Sabot Rounds",
-		"defname": "RailgunSabotDU"
-	},
-	{
 		"abr": "elephanthowdah",
 		"price": 650,
 		"category": "[Animal Apparel]",
 		"defname": "Apparel_Howdah"
-	},
-	{
-		"abr": "ers",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "ERS"
 	},
 	{
 		"abr": "foxbandana",
@@ -7651,142 +7393,16 @@
 		"defname": "Apparel_FoxBandanaRed"
 	},
 	{
-		"abr": "fuelrods",
-		"price": 1667,
-		"category": "Nuclear fuel",
-		"defname": "FuelRods"
-	},
-	{
-		"abr": "fuelrodsmox",
-		"price": 3333,
-		"category": "Nuclear fuel",
-		"defname": "FuelRodsMOX"
-	},
-	{
 		"abr": "kyulenenergyshieldarmor",
 		"price": 2000,
 		"category": "Apparel",
 		"defname": "Apparel_KyulenArmor"
 	},
 	{
-		"abr": "lensmodule",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "LenseModule"
-	},
-	{
-		"abr": "meps",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "MEPS"
-	},
-	{
-		"abr": "missilefuselage",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "MissileFuselage"
-	},
-	{
-		"abr": "moppmask(desert)",
-		"price": 500,
-		"category": "Mopp",
-		"defname": "Apparel_MoppMaskDesert"
-	},
-	{
-		"abr": "moppmask(snow)",
-		"price": 500,
-		"category": "Mopp",
-		"defname": "Apparel_MoppMaskSnow"
-	},
-	{
-		"abr": "moppmask(woodland)",
-		"price": 500,
-		"category": "Mopp",
-		"defname": "Apparel_MoppMaskWoodland"
-	},
-	{
-		"abr": "moppsuit(desert)",
-		"price": 792,
-		"category": "Mopp",
-		"defname": "Apparel_MoppSuitDesert"
-	},
-	{
-		"abr": "moppsuit(snow)",
-		"price": 792,
-		"category": "Mopp",
-		"defname": "Apparel_MoppSuitSnow"
-	},
-	{
-		"abr": "moppsuit(woodland)",
-		"price": 792,
-		"category": "Mopp",
-		"defname": "Apparel_MoppSuitWoodland"
-	},
-	{
-		"abr": "nuclearwarhead",
-		"price": 24000,
-		"category": "Rimatomics Product",
-		"defname": "FissionWarhead"
-	},
-	{
-		"abr": "plutonium",
-		"price": 100,
-		"category": "Rimatomics Product",
-		"defname": "Plutonium"
-	},
-	{
-		"abr": "potassiumiodide",
-		"price": 53,
-		"category": "Drugs",
-		"defname": "PotassiumIodide"
-	},
-	{
-		"abr": "r.t.g",
-		"price": 4333,
-		"category": "Nuclear",
-		"defname": "RimatomicsRTG"
-	},
-	{
-		"abr": "radiationmask",
-		"price": 244,
-		"category": "Hazmat",
-		"defname": "Apparel_RadiationMask"
-	},
-	{
-		"abr": "radiationsuit",
-		"price": 383,
-		"category": "Hazmat",
-		"defname": "Apparel_RadiationSuit"
-	},
-	{
-		"abr": "rocketengine",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "RocketEngine"
-	},
-	{
-		"abr": "sabotround",
-		"price": 17,
-		"category": "Sabot Rounds",
-		"defname": "RailgunSabot"
-	},
-	{
-		"abr": "scad",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "SCAD"
-	},
-	{
 		"abr": "synthreadtail",
 		"price": 808,
 		"category": "Bionic",
 		"defname": "SynthTail"
-	},
-	{
-		"abr": "targetingchip",
-		"price": 67,
-		"category": "Rimatomics Product",
-		"defname": "TargetingChip"
 	},
 	{
 		"abr": "thrumboarmor",
@@ -7799,18 +7415,6 @@
 		"price": 290,
 		"category": "Headgear",
 		"defname": "Apparel_ThrumboGear"
-	},
-	{
-		"abr": "turbineblades",
-		"price": 2,
-		"category": "Rimatomics Product",
-		"defname": "turbineBlade"
-	},
-	{
-		"abr": "uraniumpellets",
-		"price": 3,
-		"category": "Rimatomics Product",
-		"defname": "UraniumPellets"
 	},
 	{
 		"abr": "wargarmor",
@@ -9493,252 +9097,6 @@
 		"defname": "RB_Bee_Fabricated_Queen"
 	},
 	{
-		"abr": "amputator",
-		"price": 3333,
-		"category": "Melee weapons",
-		"defname": "RHMelee_DFAmputator"
-	},
-	{
-		"abr": "behemothimplant",
-		"price": -10,
-		"category": "Voidtech",
-		"defname": "VOIDArmorskin_Implant"
-	},
-	{
-		"abr": "blackleapermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RH_DF_BlackLeaper"
-	},
-	{
-		"abr": "businesssuitvoid",
-		"price": -10,
-		"category": "Formal",
-		"defname": "RNApparel_BuisnessSuit_VOID"
-	},
-	{
-		"abr": "caviar",
-		"price": 67,
-		"category": "MRE Rations",
-		"defname": "RN_Ration_Caviar"
-	},
-	{
-		"abr": "cloak(wastelandblack)",
-		"price": 315,
-		"category": "Combat jackets",
-		"defname": "RHApparel_DFCloak_Black"
-	},
-	{
-		"abr": "corpseblaster",
-		"price": 425,
-		"category": "Shotgun",
-		"defname": "RNGun_CorpseBlasterS"
-	},
-	{
-		"abr": "corpsedestroyer",
-		"price": 700,
-		"category": "LMG and GPMG",
-		"defname": "RNGun_CorpseDestroyer"
-	},
-	{
-		"abr": "destructionimplant",
-		"price": -10,
-		"category": "Voidtech",
-		"defname": "VOIDCombat_Implant"
-	},
-	{
-		"abr": "duskcarbine",
-		"price": 600,
-		"category": "AMR",
-		"defname": "RNGun_DuskCarbine"
-	},
-	{
-		"abr": "duskenforcer",
-		"price": 232,
-		"category": "Pistol",
-		"defname": "RNGun_DuskEnforcer"
-	},
-	{
-		"abr": "duskmag",
-		"price": 8083,
-		"category": "Dead Frontier ranged",
-		"defname": "RNGun_DuskMAG"
-	},
-	{
-		"abr": "duskrazor",
-		"price": 5000,
-		"category": "Melee weapons",
-		"defname": "RHMelee_DFDuskBlade"
-	},
-	{
-		"abr": "duskstriker",
-		"price": 675,
-		"category": "Shotgun",
-		"defname": "RNGun_DuskStrikerS"
-	},
-	{
-		"abr": "gau-19",
-		"price": 8333,
-		"category": "Dead Frontier ranged",
-		"defname": "RNGun_GAU19_Minigun"
-	},
-	{
-		"abr": "gaussrifle",
-		"price": 708,
-		"category": "AMR",
-		"defname": "RNGun_DFGAUSSrifle"
-	},
-	{
-		"abr": "geniusimplant",
-		"price": -10,
-		"category": "Voidtech",
-		"defname": "VOIDBrain_Implant"
-	},
-	{
-		"abr": "giantspidermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RH_DF_GiantSpider"
-	},
-	{
-		"abr": "grinder",
-		"price": 7500,
-		"category": "Melee weapons",
-		"defname": "RHMelee_DFGrinder_Chainsaw"
-	},
-	{
-		"abr": "impromptuimplant",
-		"price": -10,
-		"category": "Voidtech",
-		"defname": "RH_VOIDSocialImplant"
-	},
-	{
-		"abr": "nerotonin-8b",
-		"price": 4667,
-		"category": "Items",
-		"defname": "RH_Nerotonin8B"
-	},
-	{
-		"abr": "nerotonin-vimplant",
-		"price": -10,
-		"category": "Voidtech",
-		"defname": "VOIDHealing_Implant"
-	},
-	{
-		"abr": "redwine",
-		"price": 20,
-		"category": "Drugs",
-		"defname": "RH_RedWine"
-	},
-	{
-		"abr": "superseducerimplant",
-		"price": 3717,
-		"category": "Bionic",
-		"defname": "RH_AestheticShaper"
-	},
-	{
-		"abr": "titanmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RH_DF_Titan"
-	},
-	{
-		"abr": "violenceimplant",
-		"price": -10,
-		"category": "Voidtech",
-		"defname": "VOIDMeleeCombat_Implant"
-	},
-	{
-		"abr": "voidhelmet",
-		"price": -10,
-		"category": "Powered armor helmets",
-		"defname": "RNApparel_ReactiveHelmet_VOID"
-	},
-	{
-		"abr": "voidhelmet(cloak)",
-		"price": -10,
-		"category": "Powered armor helmets",
-		"defname": "RNApparel_ReactiveHelmet_VOIDCloaked"
-	},
-	{
-		"abr": "voidreactive",
-		"price": -10,
-		"category": "Powered armor",
-		"defname": "RNApparel_VOIDReactive"
-	},
-	{
-		"abr": "voidshieldbelt",
-		"price": -10,
-		"category": "Apparel",
-		"defname": "RHApparel_RangedShieldBelt_VOID"
-	},
-	{
-		"abr": "voidspeedskin",
-		"price": -10,
-		"category": "Combat uniform",
-		"defname": "RNApparel_SpeedSkin_VOID"
-	},
-	{
-		"abr": "voidtechear",
-		"price": -10,
-		"category": "Voidtech",
-		"defname": "RH_VOIDBionicEar"
-	},
-	{
-		"abr": "voidtechhalf-cycler",
-		"price": -10,
-		"category": "Voidtech",
-		"defname": "RH_VOIDCircadianHalfCycler"
-	},
-	{
-		"abr": "voidtechheart",
-		"price": -10,
-		"category": "Voidtech",
-		"defname": "RH_VOIDBionicHeart"
-	},
-	{
-		"abr": "voidtechkidney",
-		"price": -10,
-		"category": "Voidtech",
-		"defname": "RH_VOIDBionicKidney"
-	},
-	{
-		"abr": "voidtechliver",
-		"price": -10,
-		"category": "Voidtech",
-		"defname": "RH_VOIDBionicLiver"
-	},
-	{
-		"abr": "voidtechlung",
-		"price": -10,
-		"category": "Voidtech",
-		"defname": "RH_VOIDBionicLung"
-	},
-	{
-		"abr": "voidtechnose",
-		"price": -10,
-		"category": "Voidtech",
-		"defname": "RH_VOIDAestheticNose"
-	},
-	{
-		"abr": "voidtechspine",
-		"price": -10,
-		"category": "Voidtech",
-		"defname": "RH_VOIDBionicSpine"
-	},
-	{
-		"abr": "voidtechstomach",
-		"price": -10,
-		"category": "Voidtech",
-		"defname": "RH_VOIDBionicStomach"
-	},
-	{
-		"abr": "wraithmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RH_DF_Wraith"
-	},
-	{
 		"abr": "bricks",
 		"price": 3,
 		"category": "Stone blocks",
@@ -9815,48 +9173,6 @@
 		"price": 342,
 		"category": "Furniture",
 		"defname": "WoodPile"
-	},
-	{
-		"abr": "advancedbionicarm",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTArm"
-	},
-	{
-		"abr": "advancedbionicdentures",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTDentures"
-	},
-	{
-		"abr": "advancedbionicear",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTEar"
-	},
-	{
-		"abr": "advancedbioniceye",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTEye"
-	},
-	{
-		"abr": "advancedbionicfoot",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTFoot"
-	},
-	{
-		"abr": "advancedbionichand",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTHand"
-	},
-	{
-		"abr": "advancedbionicleg",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTLeg"
 	},
 	{
 		"abr": "akouoshield",
@@ -10129,36 +9445,6 @@
 		"defname": "CMissileTurret"
 	},
 	{
-		"abr": "cyberneticheart",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTHeart"
-	},
-	{
-		"abr": "cybernetickidney",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTKidney"
-	},
-	{
-		"abr": "cyberneticliver",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTLiver"
-	},
-	{
-		"abr": "cyberneticlung",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTLung"
-	},
-	{
-		"abr": "cyberneticstomach",
-		"price": 5667,
-		"category": "Bionic",
-		"defname": "GTStomach"
-	},
-	{
 		"abr": "dustworkshop",
 		"price": 758,
 		"category": "Production",
@@ -10328,7 +9614,7 @@
 	},
 	{
 		"abr": "firedustcrystal",
-		"price": 2,
+		"price": 200,
 		"category": "Dust crystals",
 		"defname": "FireDustCrystal"
 	},
@@ -10394,7 +9680,7 @@
 	},
 	{
 		"abr": "gravitydustcrystal",
-		"price": 2,
+		"price": 200,
 		"category": "Dust crystals",
 		"defname": "GravityDustCrystal"
 	},
@@ -10424,7 +9710,7 @@
 	},
 	{
 		"abr": "hard-lightdustcrystal",
-		"price": 2,
+		"price": 200,
 		"category": "Dust crystals",
 		"defname": "HardLightDustCrystal"
 	},
@@ -10466,7 +9752,7 @@
 	},
 	{
 		"abr": "icedustcrystal",
-		"price": 2,
+		"price": 200,
 		"category": "Dust crystals",
 		"defname": "IceDustCrystal"
 	},
@@ -10478,7 +9764,7 @@
 	},
 	{
 		"abr": "lightningdustcrystal",
-		"price": 2,
+		"price": 200,
 		"category": "Dust crystals",
 		"defname": "LightningDustCrystal"
 	},
@@ -10697,7 +9983,3019 @@
 		"price": 1333,
 		"category": "Apparel",
 		"defname": "Apparel_OCPants"
+	},
+	{
+		"abr": "alc",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "ALC"
+	},
+	{
+		"abr": "atom",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "ATOM"
+	},
+	{
+		"abr": "beamsplitter",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "BeamSplitter"
+	},
+	{
+		"abr": "controlrodactuator",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "ControlRodActuator"
+	},
+	{
+		"abr": "depleteduranium",
+		"price": 13,
+		"category": "Rimatomics Product",
+		"defname": "DepletedUraniumPellets"
+	},
+	{
+		"abr": "driveactuator",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "DriveActuator"
+	},
+	{
+		"abr": "dusabotround",
+		"price": 83,
+		"category": "Sabot Rounds",
+		"defname": "RailgunSabotDU"
+	},
+	{
+		"abr": "ers",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "ERS"
+	},
+	{
+		"abr": "fuelrods",
+		"price": 1667,
+		"category": "Nuclear fuel",
+		"defname": "FuelRods"
+	},
+	{
+		"abr": "fuelrodsmox",
+		"price": 3333,
+		"category": "Nuclear fuel",
+		"defname": "FuelRodsMOX"
+	},
+	{
+		"abr": "lensmodule",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "LenseModule"
+	},
+	{
+		"abr": "meps",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "MEPS"
+	},
+	{
+		"abr": "missilefuselage",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "MissileFuselage"
+	},
+	{
+		"abr": "moppmask(desert)",
+		"price": 500,
+		"category": "Mopp",
+		"defname": "Apparel_MoppMaskDesert"
+	},
+	{
+		"abr": "moppmask(snow)",
+		"price": 500,
+		"category": "Mopp",
+		"defname": "Apparel_MoppMaskSnow"
+	},
+	{
+		"abr": "moppmask(woodland)",
+		"price": 500,
+		"category": "Mopp",
+		"defname": "Apparel_MoppMaskWoodland"
+	},
+	{
+		"abr": "moppsuit(desert)",
+		"price": 792,
+		"category": "Mopp",
+		"defname": "Apparel_MoppSuitDesert"
+	},
+	{
+		"abr": "moppsuit(snow)",
+		"price": 792,
+		"category": "Mopp",
+		"defname": "Apparel_MoppSuitSnow"
+	},
+	{
+		"abr": "moppsuit(woodland)",
+		"price": 792,
+		"category": "Mopp",
+		"defname": "Apparel_MoppSuitWoodland"
+	},
+	{
+		"abr": "nuclearwarhead",
+		"price": 24000,
+		"category": "Rimatomics Product",
+		"defname": "FissionWarhead"
+	},
+	{
+		"abr": "orionuniformshirt",
+		"price": 1333,
+		"category": "Apparel",
+		"defname": "Apparel_OCShirt"
+	},
+	{
+		"abr": "patchedshirt",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "Apparel_PatchedShirt"
+	},
+	{
+		"abr": "plasmacaliver",
+		"price": 4942,
+		"category": "Federation weapons",
+		"defname": "AD_PlasmaCaliver"
+	},
+	{
+		"abr": "plasmagrenade",
+		"price": 1500,
+		"category": "Grenades",
+		"defname": "AD_FedPlasmaGrenades"
+	},
+	{
+		"abr": "plasmarifle",
+		"price": 4817,
+		"category": "Federation weapons",
+		"defname": "AD_Sentinel"
+	},
+	{
+		"abr": "plutonium",
+		"price": 100,
+		"category": "Rimatomics Product",
+		"defname": "Plutonium"
+	},
+	{
+		"abr": "potassiumiodide",
+		"price": 53,
+		"category": "Drugs",
+		"defname": "PotassiumIodide"
+	},
+	{
+		"abr": "powderedfiredust",
+		"price": 100,
+		"category": "Dust powder",
+		"defname": "FireDustPowder"
+	},
+	{
+		"abr": "powderedgravitydust",
+		"price": 100,
+		"category": "Dust powder",
+		"defname": "GravityDustPowder"
+	},
+	{
+		"abr": "powderedhard-lightdust",
+		"price": 100,
+		"category": "Dust powder",
+		"defname": "HardLightDustPowder"
+	},
+	{
+		"abr": "powderedicedust",
+		"price": 100,
+		"category": "Dust powder",
+		"defname": "IceDustPowder"
+	},
+	{
+		"abr": "powderedlightningdust",
+		"price": 100,
+		"category": "Dust powder",
+		"defname": "LightningDustPowder"
+	},
+	{
+		"abr": "protectivegear",
+		"price": 783,
+		"category": "Apparel",
+		"defname": "Apparel_ProtectiveGear"
+	},
+	{
+		"abr": "protectivehelmet",
+		"price": 400,
+		"category": "Headgear",
+		"defname": "Apparel_ProtectiveHelmet"
+	},
+	{
+		"abr": "pumpkinpete'shoodie",
+		"price": 275,
+		"category": "Apparel",
+		"defname": "Apparel_PumpkinPetes"
+	},
+	{
+		"abr": "pumpkinpete'smarshmallowflakes",
+		"price": 40,
+		"category": "Meals",
+		"defname": "RWBY_PumpkinPetes"
+	},
+	{
+		"abr": "r.t.g",
+		"price": 4333,
+		"category": "Nuclear",
+		"defname": "RimatomicsRTG"
+	},
+	{
+		"abr": "radiationmask",
+		"price": 244,
+		"category": "Hazmat",
+		"defname": "Apparel_RadiationMask"
+	},
+	{
+		"abr": "radiationsuit",
+		"price": 383,
+		"category": "Hazmat",
+		"defname": "Apparel_RadiationSuit"
+	},
+	{
+		"abr": "razortoothmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mutant_Razortooth"
+	},
+	{
+		"abr": "reactivesuit",
+		"price": 3000,
+		"category": "Apparel",
+		"defname": "Apparel_Reactive"
+	},
+	{
+		"abr": "repeatingrifle",
+		"price": 517,
+		"category": "Ranged weapons",
+		"defname": "Gun_Repeater"
+	},
+	{
+		"abr": "riotgear",
+		"price": 3675,
+		"category": "Apparel",
+		"defname": "Apparel_Judicator"
+	},
+	{
+		"abr": "riotgearhelmet",
+		"price": 1442,
+		"category": "Headgear",
+		"defname": "Apparel_JudicatorH"
+	},
+	{
+		"abr": "rocketengine",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "RocketEngine"
+	},
+	{
+		"abr": "sabotround",
+		"price": 17,
+		"category": "Sabot Rounds",
+		"defname": "RailgunSabot"
+	},
+	{
+		"abr": "scad",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "SCAD"
+	},
+	{
+		"abr": "scattercharger",
+		"price": 1658,
+		"category": "Ranged weapons",
+		"defname": "Gun_ScatterCharger"
+	},
+	{
+		"abr": "coldcrystal",
+		"price": 42,
+		"category": "Raw resources",
+		"defname": "ColdCrystal"
+	},
+	{
+		"abr": "crystallamp",
+		"price": 83,
+		"category": "Furniture",
+		"defname": "CrystalLamp"
+	},
+	{
+		"abr": "adamantium",
+		"price": 33,
+		"category": "Alloys",
+		"defname": "RF_Adamantium"
+	},
+	{
+		"abr": "advancedgeothermalgenerator",
+		"price": 3908,
+		"category": "Power",
+		"defname": "sd_adv_powergen_adv_geothermal_generator"
+	},
+	{
+		"abr": "advancednuclearpowerplant",
+		"price": 10067,
+		"category": "Power",
+		"defname": "sd_adv_powergen_nuclear_power_plant"
+	},
+	{
+		"abr": "advancedsolargenerator",
+		"price": 1358,
+		"category": "Power",
+		"defname": "sd_adv_powergen_adv_solar_generator"
+	},
+	{
+		"abr": "advancedwatermillgenerator",
+		"price": 2142,
+		"category": "Power",
+		"defname": "sd_adv_powergen_WatermillGenerator"
+	},
+	{
+		"abr": "advancedwindturbine",
+		"price": 1258,
+		"category": "Power",
+		"defname": "sd_adv_powergen_adv_wind_turbine"
+	},
+	{
+		"abr": "ancientcarpet2x1",
+		"price": 282,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetBB"
+	},
+	{
+		"abr": "ancientcarpet2x1",
+		"price": 282,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetBC"
+	},
+	{
+		"abr": "ancientcarpet2x2",
+		"price": 567,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetBF"
+	},
+	{
+		"abr": "ancientcarpet2x2",
+		"price": 567,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetBG"
+	},
+	{
+		"abr": "ancientcarpet3x3",
+		"price": 1267,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetBJ"
+	},
+	{
+		"abr": "ancientcarpet3x3",
+		"price": 1267,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetBK"
+	},
+	{
+		"abr": "arc-furnaceheatingelement",
+		"price": 1800,
+		"category": "Production",
+		"defname": "RF_PoweredHeatingElement"
+	},
+	{
+		"abr": "archivalcabinet",
+		"price": 250,
+		"category": "Furniture",
+		"defname": "SadjuukResearchUpgradeCB"
+	},
+	{
+		"abr": "armorystorage1x1",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "SadjuukStorageEA"
+	},
+	{
+		"abr": "armorystorage2x1",
+		"price": 166,
+		"category": "Furniture",
+		"defname": "SadjuukStorageEB"
+	},
+	{
+		"abr": "armorystorage3x1",
+		"price": 245,
+		"category": "Furniture",
+		"defname": "SadjuukStorageEC"
+	},
+	{
+		"abr": "badgerbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAU"
+	},
+	{
+		"abr": "badgerflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBU"
+	},
+	{
+		"abr": "biohazardsign",
+		"price": 74,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerCD"
+	},
+	{
+		"abr": "blackbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAK"
+	},
+	{
+		"abr": "blackflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBK"
+	},
+	{
+		"abr": "bluefloorlight",
+		"price": 128,
+		"category": "Furniture",
+		"defname": "SadjuukLightAB"
+	},
+	{
+		"abr": "bluespotlight",
+		"price": 130,
+		"category": "Furniture",
+		"defname": "SadjuukLightBB"
+	},
+	{
+		"abr": "bluespotlight",
+		"price": 130,
+		"category": "Furniture",
+		"defname": "SadjuukLightCB"
+	},
+	{
+		"abr": "bluewalllight",
+		"price": 128,
+		"category": "Furniture",
+		"defname": "SadjuukLightDB"
+	},
+	{
+		"abr": "bluewalllight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "SadjuukLightEB"
+	},
+	{
+		"abr": "blueprinttable",
+		"price": 358,
+		"category": "Furniture",
+		"defname": "SadjuukResearchUpgradeCA"
+	},
+	{
+		"abr": "bolshvevbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAE"
+	},
+	{
+		"abr": "bolshvevflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBE"
+	},
+	{
+		"abr": "bronze",
+		"price": 10,
+		"category": "Alloys",
+		"defname": "RF_Bronze"
+	},
+	{
+		"abr": "bulletproofglass",
+		"price": 8,
+		"category": "Manufactured",
+		"defname": "SadjuukGlass"
+	},
+	{
+		"abr": "ceramicheater",
+		"price": 150,
+		"category": "Temperature",
+		"defname": "SadjuukTemperatureAB"
+	},
+	{
+		"abr": "chemfuelbarrel",
+		"price": 1725,
+		"category": "Manufactured",
+		"defname": "SadjuukChemfuelBarrel"
+	},
+	{
+		"abr": "chemfuelheatingelement",
+		"price": 1083,
+		"category": "Production",
+		"defname": "RF_ChemfuelHeatingElement"
+	},
+	{
+		"abr": "coilguncapacitor",
+		"price": 1842,
+		"category": "Power",
+		"defname": "RF_Capacitor"
+	},
+	{
+		"abr": "coilgunshell(ap)",
+		"price": 273,
+		"category": "Items",
+		"defname": "RF_CoilgunShellAP"
+	},
+	{
+		"abr": "coilgunshell(he)",
+		"price": 194,
+		"category": "Items",
+		"defname": "RF_CoilgunShellHE"
+	},
+	{
+		"abr": "coilgunshell(sp)",
+		"price": 187,
+		"category": "Items",
+		"defname": "RF_CoilgunShellSP"
+	},
+	{
+		"abr": "computerinstallation",
+		"price": 1925,
+		"category": "Furniture",
+		"defname": "SadjuukResearchUpgradeCC"
+	},
+	{
+		"abr": "computerserver",
+		"price": 967,
+		"category": "Furniture",
+		"defname": "SadjuukResearchUpgradeCD"
+	},
+	{
+		"abr": "concrete",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "SadjuukConcrete"
+	},
+	{
+		"abr": "copper",
+		"price": 8,
+		"category": "Raw resources",
+		"defname": "RF_Copper"
+	},
+	{
+		"abr": "corpselocker",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "CCPSS_CorpseLocker"
+	},
+	{
+		"abr": "crate",
+		"price": 54,
+		"category": "Furniture",
+		"defname": "CCPSS_Crate"
+	},
+	{
+		"abr": "crossbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAS"
+	},
+	{
+		"abr": "crossflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBS"
+	},
+	{
+		"abr": "cursedkhopesh",
+		"price": 8333,
+		"category": "Melee weapons",
+		"defname": "RF_CursedKhopesh"
+	},
+	{
+		"abr": "czechbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAZD"
+	},
+	{
+		"abr": "czechflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBZD"
+	},
+	{
+		"abr": "deathdangersign",
+		"price": 74,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerCB"
+	},
+	{
+		"abr": "diktatbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAD"
+	},
+	{
+		"abr": "diktatflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBD"
+	},
+	{
+		"abr": "doublelogsbed",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "SadjuukBedroomAB"
+	},
+	{
+		"abr": "doublesteelbed",
+		"price": 475,
+		"category": "Furniture",
+		"defname": "SadjuukBedroomCB"
+	},
+	{
+		"abr": "doublewoodenbed",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "SadjuukBedroomBB"
+	},
+	{
+		"abr": "dprkbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAZA"
+	},
+	{
+		"abr": "dprkflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBZA"
+	},
+	{
+		"abr": "ea,swordofdarkness",
+		"price": 10000,
+		"category": "Melee weapons",
+		"defname": "RF_SwordOfDarkness"
+	},
+	{
+		"abr": "electricdangersign",
+		"price": 74,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerCE"
+	},
+	{
+		"abr": "electricfan",
+		"price": 83,
+		"category": "Temperature",
+		"defname": "SadjuukTemperatureCA"
+	},
+	{
+		"abr": "electricheater",
+		"price": 133,
+		"category": "Temperature",
+		"defname": "SadjuukTemperatureAA"
+	},
+	{
+		"abr": "emergencystretcher",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "SadjuukHospitalCD"
+	},
+	{
+		"abr": "firedangersign",
+		"price": 74,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerCA"
+	},
+	{
+		"abr": "forge",
+		"price": 1717,
+		"category": "Production",
+		"defname": "RF_Forge"
+	},
+	{
+		"abr": "forkliftwarningsign",
+		"price": 74,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerCF"
+	},
+	{
+		"abr": "gáebulg",
+		"price": 1392,
+		"category": "Melee weapons",
+		"defname": "RF_GaeBulg"
+	},
+	{
+		"abr": "galliabanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAB"
+	},
+	{
+		"abr": "galliaflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBB"
+	},
+	{
+		"abr": "gdibanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAO"
+	},
+	{
+		"abr": "gdiflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBO"
+	},
+	{
+		"abr": "giantleaf",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "RawGiantLeaf"
+	},
+	{
+		"abr": "gildedplasteel",
+		"price": 20,
+		"category": "Alloys",
+		"defname": "RF_GildedPlasteel"
+	},
+	{
+		"abr": "glasstable1x1",
+		"price": 108,
+		"category": "Furniture",
+		"defname": "SadjuukTableDA"
+	},
+	{
+		"abr": "glasstable2x1",
+		"price": 198,
+		"category": "Furniture",
+		"defname": "SadjuukTableDB"
+	},
+	{
+		"abr": "glasstable2x2",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "SadjuukTableDD"
+	},
+	{
+		"abr": "glasstable3x1",
+		"price": 287,
+		"category": "Furniture",
+		"defname": "SadjuukTableDC"
+	},
+	{
+		"abr": "glasstable3x2",
+		"price": 558,
+		"category": "Furniture",
+		"defname": "SadjuukTableDE"
+	},
+	{
+		"abr": "gleamcapsalve",
+		"price": 17,
+		"category": "Medicine",
+		"defname": "ItW_GleamcapSalve"
+	},
+	{
+		"abr": "gleamcapstem",
+		"price": 17,
+		"category": "Medicine",
+		"defname": "GleamcapStem"
+	},
+	{
+		"abr": "globe",
+		"price": 1292,
+		"category": "Furniture",
+		"defname": "SadjuukResearchUpgradeBB"
+	},
+	{
+		"abr": "glowbulb",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "RawGlowbulb"
+	},
+	{
+		"abr": "glowbulb",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "ItW_RawGlowbulb"
+	},
+	{
+		"abr": "golddoré",
+		"price": 43,
+		"category": "Alloys",
+		"defname": "RF_GoldDore"
+	},
+	{
+		"abr": "greenbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAT"
+	},
+	{
+		"abr": "greenflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBT"
+	},
+	{
+		"abr": "greenfloorlight",
+		"price": 128,
+		"category": "Furniture",
+		"defname": "SadjuukLightAG"
+	},
+	{
+		"abr": "greenspotlight",
+		"price": 130,
+		"category": "Furniture",
+		"defname": "SadjuukLightBG"
+	},
+	{
+		"abr": "greenspotlight",
+		"price": 130,
+		"category": "Furniture",
+		"defname": "SadjuukLightCG"
+	},
+	{
+		"abr": "greenwalllight",
+		"price": 128,
+		"category": "Furniture",
+		"defname": "SadjuukLightDG"
+	},
+	{
+		"abr": "greenwalllight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "SadjuukLightEG"
+	},
+	{
+		"abr": "greenhousecontroller",
+		"price": 6450,
+		"category": "Misc",
+		"defname": "RF_GreenhouseController"
+	},
+	{
+		"abr": "greyfieldmushroom",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "ItW_RawGreyfields"
+	},
+	{
+		"abr": "gryffonbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAW"
+	},
+	{
+		"abr": "gryffonflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBW"
+	},
+	{
+		"abr": "haycarpet2x1",
+		"price": 102,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetAA"
+	},
+	{
+		"abr": "haycarpet2x2",
+		"price": 204,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetAD"
+	},
+	{
+		"abr": "haycarpet3x3",
+		"price": 458,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetAG"
+	},
+	{
+		"abr": "heavydutyshelf",
+		"price": 158,
+		"category": "Furniture",
+		"defname": "CCPSS_HDShelf"
+	},
+	{
+		"abr": "helghastbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAZ"
+	},
+	{
+		"abr": "helghastflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBZ"
+	},
+	{
+		"abr": "highpressurehydrogen",
+		"price": 1000,
+		"category": "Manufactured",
+		"defname": "SadjuukHydrogen"
+	},
+	{
+		"abr": "imperialbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAC"
+	},
+	{
+		"abr": "imperialflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBC"
+	},
+	{
+		"abr": "jadecalendar",
+		"price": 220,
+		"category": "Furniture",
+		"defname": "SadjuukResearchUpgradeAA"
+	},
+	{
+		"abr": "khopesh",
+		"price": 1000,
+		"category": "Melee weapons",
+		"defname": "RF_Khopesh"
+	},
+	{
+		"abr": "kurintailblade",
+		"price": 2092,
+		"category": "Bionic",
+		"defname": "KurinTailBlade"
+	},
+	{
+		"abr": "largestrongbox",
+		"price": 210,
+		"category": "Furniture",
+		"defname": "CCPSS_LargeStrongbox"
+	},
+	{
+		"abr": "leafbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAZB"
+	},
+	{
+		"abr": "leafflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBZB"
+	},
+	{
+		"abr": "lechbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAN"
+	},
+	{
+		"abr": "lechflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBN"
+	},
+	{
+		"abr": "lightningrod",
+		"price": 725,
+		"category": "Power",
+		"defname": "RF_LightningRod"
+	},
+	{
+		"abr": "logchair",
+		"price": 42,
+		"category": "Furniture",
+		"defname": "SadjuukChairAA"
+	},
+	{
+		"abr": "logstool",
+		"price": 42,
+		"category": "Furniture",
+		"defname": "SadjuukChairAB"
+	},
+	{
+		"abr": "logstorage1x1",
+		"price": 21,
+		"category": "Furniture",
+		"defname": "SadjuukStorageAA"
+	},
+	{
+		"abr": "logstorage2x1",
+		"price": 41,
+		"category": "Furniture",
+		"defname": "SadjuukStorageAB"
+	},
+	{
+		"abr": "logstorage3x1",
+		"price": 61,
+		"category": "Furniture",
+		"defname": "SadjuukStorageAC"
+	},
+	{
+		"abr": "logtable1x1",
+		"price": 24,
+		"category": "Furniture",
+		"defname": "SadjuukTableAA"
+	},
+	{
+		"abr": "logtable2x1",
+		"price": 44,
+		"category": "Furniture",
+		"defname": "SadjuukTableAB"
+	},
+	{
+		"abr": "logtable2x2",
+		"price": 84,
+		"category": "Furniture",
+		"defname": "SadjuukTableAD"
+	},
+	{
+		"abr": "logtable3x1",
+		"price": 64,
+		"category": "Furniture",
+		"defname": "SadjuukTableAC"
+	},
+	{
+		"abr": "logtable3x2",
+		"price": 124,
+		"category": "Furniture",
+		"defname": "SadjuukTableAE"
+	},
+	{
+		"abr": "longheavydutyshelf",
+		"price": 194,
+		"category": "Furniture",
+		"defname": "CCPSS_HDLongShelf"
+	},
+	{
+		"abr": "longrack",
+		"price": 174,
+		"category": "Furniture",
+		"defname": "CCPSS_LongRack"
+	},
+	{
+		"abr": "longresourcerack",
+		"price": 295,
+		"category": "Furniture",
+		"defname": "CCPSS_LongResourceRack"
+	},
+	{
+		"abr": "longshelf",
+		"price": 157,
+		"category": "Furniture",
+		"defname": "CCPSS_LongShelf"
+	},
+	{
+		"abr": "lysbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAR"
+	},
+	{
+		"abr": "lysflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBR"
+	},
+	{
+		"abr": "medicinecabinet",
+		"price": 174,
+		"category": "Furniture",
+		"defname": "CCPSS_MedicineCabinet"
+	},
+	{
+		"abr": "mediumshelf",
+		"price": 106,
+		"category": "Furniture",
+		"defname": "CCPSS_Shelf"
+	},
+	{
+		"abr": "meetingglasstable",
+		"price": 442,
+		"category": "Furniture",
+		"defname": "SadjuukTableDF"
+	},
+	{
+		"abr": "meetinglogtable",
+		"price": 101,
+		"category": "Furniture",
+		"defname": "SadjuukTableAF"
+	},
+	{
+		"abr": "meetingplasteeltable",
+		"price": 917,
+		"category": "Furniture",
+		"defname": "SadjuukTableEF"
+	},
+	{
+		"abr": "meetingplasteeltable",
+		"price": 917,
+		"category": "Furniture",
+		"defname": "SadjuukTableFF"
+	},
+	{
+		"abr": "meetingsteeltable",
+		"price": 276,
+		"category": "Furniture",
+		"defname": "SadjuukTableCF"
+	},
+	{
+		"abr": "meetingwoodentable",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "SadjuukTableBF"
+	},
+	{
+		"abr": "mercuryultraweave",
+		"price": 5,
+		"category": "Textiles",
+		"defname": "RF_MercuryUltraweave"
+	},
+	{
+		"abr": "moderncarpet2x1",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetCA"
+	},
+	{
+		"abr": "moderncarpet2x1",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetCB"
+	},
+	{
+		"abr": "moderncarpet2x1",
+		"price": 383,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetCC"
+	},
+	{
+		"abr": "moderncarpet2x2",
+		"price": 767,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetCD"
+	},
+	{
+		"abr": "moderncarpet2x2",
+		"price": 767,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetCE"
+	},
+	{
+		"abr": "moderncarpet2x2",
+		"price": 767,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetCF"
+	},
+	{
+		"abr": "moderncarpet3x3",
+		"price": 1733,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetCG"
+	},
+	{
+		"abr": "moderncarpet3x3",
+		"price": 1733,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetCH"
+	},
+	{
+		"abr": "moderncarpet3x3",
+		"price": 1733,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetCI"
+	},
+	{
+		"abr": "modernpharmacy",
+		"price": 1225,
+		"category": "Furniture",
+		"defname": "SadjuukHospitalUpgradeCA"
+	},
+	{
+		"abr": "mortar(lowtrajectory)",
+		"price": 658,
+		"category": "Security",
+		"defname": "Turret_MortarCave"
+	},
+	{
+		"abr": "mushroomfermentingbarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "ItW_MushroomFermentingBarrel"
+	},
+	{
+		"abr": "mushroommust",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "ItW_MushroomMust"
+	},
+	{
+		"abr": "mushroomwine",
+		"price": 33,
+		"category": "Drugs",
+		"defname": "ItW_MushroomWine"
+	},
+	{
+		"abr": "nestingbox",
+		"price": 154,
+		"category": "Furniture",
+		"defname": "CCPSS_NestingBox"
+	},
+	{
+		"abr": "nodbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAF"
+	},
+	{
+		"abr": "nodflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBF"
+	},
+	{
+		"abr": "officechair",
+		"price": 304,
+		"category": "Furniture",
+		"defname": "SadjuukBedroomUpgradeCF"
+	},
+	{
+		"abr": "operatingtable",
+		"price": 908,
+		"category": "Furniture",
+		"defname": "SadjuukHospitalCC"
+	},
+	{
+		"abr": "plasteelchaira",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "SadjuukChairEA"
+	},
+	{
+		"abr": "plasteelchairb",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "SadjuukChairEB"
+	},
+	{
+		"abr": "plasteelstorage1x1",
+		"price": 232,
+		"category": "Furniture",
+		"defname": "SadjuukStorageFA"
+	},
+	{
+		"abr": "plasteelstorage1x1",
+		"price": 232,
+		"category": "Furniture",
+		"defname": "SadjuukStorageGA"
+	},
+	{
+		"abr": "plasteelstorage2x1",
+		"price": 458,
+		"category": "Furniture",
+		"defname": "SadjuukStorageFB"
+	},
+	{
+		"abr": "plasteelstorage2x1",
+		"price": 458,
+		"category": "Furniture",
+		"defname": "SadjuukStorageGB"
+	},
+	{
+		"abr": "plasteelstorage3x1",
+		"price": 683,
+		"category": "Furniture",
+		"defname": "SadjuukStorageFC"
+	},
+	{
+		"abr": "plasteelstorage3x1",
+		"price": 683,
+		"category": "Furniture",
+		"defname": "SadjuukStorageGC"
+	},
+	{
+		"abr": "plasteeltable1x1",
+		"price": 282,
+		"category": "Furniture",
+		"defname": "SadjuukTableEA"
+	},
+	{
+		"abr": "plasteeltable1x1",
+		"price": 282,
+		"category": "Furniture",
+		"defname": "SadjuukTableFA"
+	},
+	{
+		"abr": "plasteeltable2x1",
+		"price": 550,
+		"category": "Furniture",
+		"defname": "SadjuukTableEB"
+	},
+	{
+		"abr": "plasteeltable2x1",
+		"price": 550,
+		"category": "Furniture",
+		"defname": "SadjuukTableFB"
+	},
+	{
+		"abr": "plasteeltable2x2",
+		"price": 1083,
+		"category": "Furniture",
+		"defname": "SadjuukTableED"
+	},
+	{
+		"abr": "plasteeltable2x2",
+		"price": 1083,
+		"category": "Furniture",
+		"defname": "SadjuukTableFD"
+	},
+	{
+		"abr": "plasteeltable3x1",
+		"price": 817,
+		"category": "Furniture",
+		"defname": "SadjuukTableEC"
+	},
+	{
+		"abr": "plasteeltable3x1",
+		"price": 817,
+		"category": "Furniture",
+		"defname": "SadjuukTableFC"
+	},
+	{
+		"abr": "plasteeltable3x2",
+		"price": 1617,
+		"category": "Furniture",
+		"defname": "SadjuukTableEE"
+	},
+	{
+		"abr": "plasteeltable3x2",
+		"price": 1617,
+		"category": "Furniture",
+		"defname": "SadjuukTableFE"
+	},
+	{
+		"abr": "portablecgen01k1kw",
+		"price": 1358,
+		"category": "Furniture",
+		"defname": "SadjuukGeneratorPB"
+	},
+	{
+		"abr": "portablefuelcell3kw",
+		"price": 2600,
+		"category": "Furniture",
+		"defname": "SadjuukGeneratorPC"
+	},
+	{
+		"abr": "portablegenerator0.5kw",
+		"price": 617,
+		"category": "Furniture",
+		"defname": "SadjuukGeneratorPA"
+	},
+	{
+		"abr": "powerpole",
+		"price": 56,
+		"category": "Power",
+		"defname": "RF_PowerPole"
+	},
+	{
+		"abr": "rack",
+		"price": 157,
+		"category": "Furniture",
+		"defname": "CCPSS_Rack"
+	},
+	{
+		"abr": "radiationwarningsign",
+		"price": 74,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerCC"
+	},
+	{
+		"abr": "ravenbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAX"
+	},
+	{
+		"abr": "ravenflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBX"
+	},
+	{
+		"abr": "rawroyalbracket",
+		"price": 3,
+		"category": "Vegetarian",
+		"defname": "ItW_RawRoyalBracket"
+	},
+	{
+		"abr": "recoverybed",
+		"price": 298,
+		"category": "Furniture",
+		"defname": "SadjuukHospitalBB"
+	},
+	{
+		"abr": "redbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAG"
+	},
+	{
+		"abr": "redflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBG"
+	},
+	{
+		"abr": "redfloorlight",
+		"price": 128,
+		"category": "Furniture",
+		"defname": "SadjuukLightAR"
+	},
+	{
+		"abr": "redspotlight",
+		"price": 130,
+		"category": "Furniture",
+		"defname": "SadjuukLightBR"
+	},
+	{
+		"abr": "redspotlight",
+		"price": 130,
+		"category": "Furniture",
+		"defname": "SadjuukLightCR"
+	},
+	{
+		"abr": "redwalllight",
+		"price": 128,
+		"category": "Furniture",
+		"defname": "SadjuukLightDR"
+	},
+	{
+		"abr": "redwalllight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "SadjuukLightER"
+	},
+	{
+		"abr": "researchdesk",
+		"price": 950,
+		"category": "Production",
+		"defname": "SadjuukResearchBA"
+	},
+	{
+		"abr": "researchlibrary",
+		"price": 1367,
+		"category": "Furniture",
+		"defname": "SadjuukResearchUpgradeBA"
+	},
+	{
+		"abr": "researchspot",
+		"price": 36,
+		"category": "Production",
+		"defname": "SadjuukResearchAA"
+	},
+	{
+		"abr": "researchstation",
+		"price": 1083,
+		"category": "Production",
+		"defname": "SadjuukResearchCA"
+	},
+	{
+		"abr": "resourcerack",
+		"price": 192,
+		"category": "Furniture",
+		"defname": "CCPSS_ResourceRack"
+	},
+	{
+		"abr": "ritualcore",
+		"price": 725,
+		"category": "Misc",
+		"defname": "RF_RitualCore"
+	},
+	{
+		"abr": "royalbluebanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAH"
+	},
+	{
+		"abr": "royalblueflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBH"
+	},
+	{
+		"abr": "royalcarpet2x1",
+		"price": 967,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetBD"
+	},
+	{
+		"abr": "royalcarpet2x2",
+		"price": 1933,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetBH"
+	},
+	{
+		"abr": "royalcarpet3x3",
+		"price": 4342,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetBL"
+	},
+	{
+		"abr": "royalsauce",
+		"price": 2,
+		"category": "Condiments",
+		"defname": "ItW_RoyalSauce"
+	},
+	{
+		"abr": "rusbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAP"
+	},
+	{
+		"abr": "rusflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBP"
+	},
+	{
+		"abr": "scavbench",
+		"price": 286,
+		"category": "Production",
+		"defname": "FeralTable"
+	},
+	{
+		"abr": "scraparmor",
+		"price": 500,
+		"category": "Apparel",
+		"defname": "Apparel_ScrapArmor"
+	},
+	{
+		"abr": "sen,swordofrapture",
+		"price": 12542,
+		"category": "Melee weapons",
+		"defname": "RF_SwordOfRapture"
+	},
+	{
+		"abr": "serum",
+		"price": 417,
+		"category": "Manufactured",
+		"defname": "Serum"
+	},
+	{
+		"abr": "shadarkmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mutant_Shadark"
+	},
+	{
+		"abr": "sharpretribution",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_SharpRetribution_Gun"
+	},
+	{
+		"abr": "shimmershroom",
+		"price": 5,
+		"category": "Vegetarian",
+		"defname": "RawShimmershroom"
+	},
+	{
+		"abr": "shimmershroom",
+		"price": 5,
+		"category": "Vegetarian",
+		"defname": "ItW_RawShimmershroom"
+	},
+	{
+		"abr": "shimmersmoothie",
+		"price": 5,
+		"category": "Meals",
+		"defname": "ItW_Shimmersmoothie"
+	},
+	{
+		"abr": "silicon",
+		"price": 2,
+		"category": "Manufactured",
+		"defname": "Silicon"
+	},
+	{
+		"abr": "skybluebanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAI"
+	},
+	{
+		"abr": "skyblueflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBI"
+	},
+	{
+		"abr": "smallglasstable",
+		"price": 202,
+		"category": "Furniture",
+		"defname": "SadjuukBedroomUpgradeCD"
+	},
+	{
+		"abr": "smalllibrary",
+		"price": 683,
+		"category": "Furniture",
+		"defname": "SadjuukResearchUpgradeBC"
+	},
+	{
+		"abr": "smalllogtable",
+		"price": 95,
+		"category": "Furniture",
+		"defname": "SadjuukBedroomUpgradeAC"
+	},
+	{
+		"abr": "smallsteeltable",
+		"price": 152,
+		"category": "Furniture",
+		"defname": "SadjuukBedroomUpgradeCC"
+	},
+	{
+		"abr": "smallwoodentable",
+		"price": 1067,
+		"category": "Furniture",
+		"defname": "SadjuukBedroomUpgradeBC"
+	},
+	{
+		"abr": "smartmachinegun",
+		"price": 2275,
+		"category": "Ranged weapons",
+		"defname": "SmartMG"
+	},
+	{
+		"abr": "smartpistol",
+		"price": 633,
+		"category": "Ranged weapons",
+		"defname": "Gun_SmartPistol"
+	},
+	{
+		"abr": "smartrifle",
+		"price": 1950,
+		"category": "Ranged weapons",
+		"defname": "Gun_SmartRifle"
+	},
+	{
+		"abr": "smartsmg",
+		"price": 1383,
+		"category": "Ranged weapons",
+		"defname": "Gun_SMG"
+	},
+	{
+		"abr": "smartsniperrifle",
+		"price": 2442,
+		"category": "Ranged weapons",
+		"defname": "Gun_SmartSniperRifle"
+	},
+	{
+		"abr": "smokegrenades",
+		"price": 358,
+		"category": "Grenades",
+		"defname": "Weapon_GrenadeSmoke"
+	},
+	{
+		"abr": "snakebanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAV"
+	},
+	{
+		"abr": "snakeflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBV"
+	},
+	{
+		"abr": "speedskinsuit",
+		"price": 4667,
+		"category": "Apparel",
+		"defname": "Apparel_NanoSpeed"
+	},
+	{
+		"abr": "staballoy",
+		"price": 27,
+		"category": "Alloys",
+		"defname": "RF_Staballoy"
+	},
+	{
+		"abr": "stablepistol",
+		"price": 3833,
+		"category": "Ranged weapons",
+		"defname": "RF_StablePistol"
+	},
+	{
+		"abr": "stablerifle",
+		"price": 4500,
+		"category": "Ranged weapons",
+		"defname": "RF_StableRifle"
+	},
+	{
+		"abr": "statesbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAQ"
+	},
+	{
+		"abr": "statesflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBQ"
+	},
+	{
+		"abr": "steelbed",
+		"price": 236,
+		"category": "Furniture",
+		"defname": "SadjuukBedroomCA"
+	},
+	{
+		"abr": "steelchair",
+		"price": 120,
+		"category": "Furniture",
+		"defname": "SadjuukChairCA"
+	},
+	{
+		"abr": "steelchest",
+		"price": 199,
+		"category": "Furniture",
+		"defname": "SadjuukBedroomUpgradeCA"
+	},
+	{
+		"abr": "steelcrate1x1",
+		"price": 51,
+		"category": "Furniture",
+		"defname": "SadjuukStorageDA"
+	},
+	{
+		"abr": "steellockers",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "SadjuukBedroomUpgradeCB"
+	},
+	{
+		"abr": "steelmedicalbed",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "SadjuukHospitalCA"
+	},
+	{
+		"abr": "steelpallet",
+		"price": 17,
+		"category": "Furniture",
+		"defname": "SadjuukStorageCB"
+	},
+	{
+		"abr": "steelstool",
+		"price": 120,
+		"category": "Furniture",
+		"defname": "SadjuukChairCB"
+	},
+	{
+		"abr": "steelstorage2x1",
+		"price": 99,
+		"category": "Furniture",
+		"defname": "SadjuukStorageDB"
+	},
+	{
+		"abr": "steelstorage3x1",
+		"price": 146,
+		"category": "Furniture",
+		"defname": "SadjuukStorageDC"
+	},
+	{
+		"abr": "steelsurgerytools",
+		"price": 700,
+		"category": "Furniture",
+		"defname": "SadjuukHospitalUpgradeCB"
+	},
+	{
+		"abr": "steeltable1x1",
+		"price": 57,
+		"category": "Furniture",
+		"defname": "SadjuukTableCA"
+	},
+	{
+		"abr": "steeltable2x1",
+		"price": 104,
+		"category": "Furniture",
+		"defname": "SadjuukTableCB"
+	},
+	{
+		"abr": "steeltable2x2",
+		"price": 199,
+		"category": "Furniture",
+		"defname": "SadjuukTableCD"
+	},
+	{
+		"abr": "steeltable3x1",
+		"price": 152,
+		"category": "Furniture",
+		"defname": "SadjuukTableCC"
+	},
+	{
+		"abr": "steeltable3x2",
+		"price": 294,
+		"category": "Furniture",
+		"defname": "SadjuukTableCE"
+	},
+	{
+		"abr": "stormflower",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_StormFlower_Gun"
+	},
+	{
+		"abr": "strikedronelauncher",
+		"price": 3800,
+		"category": "Misc",
+		"defname": "RF_DroneLauncher"
+	},
+	{
+		"abr": "strongbox",
+		"price": 176,
+		"category": "Furniture",
+		"defname": "CCPSS_Strongbox"
+	},
+	{
+		"abr": "surgerylights",
+		"price": 251,
+		"category": "Furniture",
+		"defname": "SadjuukHospitalUpgradeCD"
+	},
+	{
+		"abr": "sverigesbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAZC"
+	},
+	{
+		"abr": "sverigesflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBZC"
+	},
+	{
+		"abr": "syntheticmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Bion_Base"
+	},
+	{
+		"abr": "tacticalhelmet",
+		"price": 508,
+		"category": "Headgear",
+		"defname": "Apparel_TacHelmet"
+	},
+	{
+		"abr": "tacticalvest",
+		"price": 717,
+		"category": "Apparel",
+		"defname": "Apparel_TacVest"
+	},
+	{
+		"abr": "tankmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Race_Tank"
+	},
+	{
+		"abr": "targetingchip",
+		"price": 67,
+		"category": "Rimatomics Product",
+		"defname": "TargetingChip"
+	},
+	{
+		"abr": "templarbanner",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAM"
+	},
+	{
+		"abr": "templarflag",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBM"
+	},
+	{
+		"abr": "tendingtools",
+		"price": 517,
+		"category": "Furniture",
+		"defname": "SadjuukHospitalUpgradeBB"
+	},
+	{
+		"abr": "teslacoil",
+		"price": 1042,
+		"category": "Security",
+		"defname": "RF_TeslaCoil"
+	},
+	{
+		"abr": "teslacoil(wireless)",
+		"price": 1042,
+		"category": "Security",
+		"defname": "RF_TeslaCoilWireless"
+	},
+	{
+		"abr": "thief'srespite",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_ThiefsRespite_Gun"
+	},
+	{
+		"abr": "thief'srespite",
+		"price": 1333,
+		"category": "Dust weapons",
+		"defname": "RWBY_ThiefsRespite_Sickle"
+	},
+	{
+		"abr": "throwingaxes",
+		"price": 342,
+		"category": "Ranged weapons",
+		"defname": "Gun_ThrowingAxes"
+	},
+	{
+		"abr": "throwingclubs",
+		"price": 109,
+		"category": "Ranged weapons",
+		"defname": "Gun_ThrowingClubs"
+	},
+	{
+		"abr": "tin",
+		"price": 8,
+		"category": "Raw resources",
+		"defname": "RF_Tin"
+	},
+	{
+		"abr": "titanium",
+		"price": 53,
+		"category": "Raw resources",
+		"defname": "Titanium"
+	},
+	{
+		"abr": "tribalcarpet2x1",
+		"price": 141,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetAB"
+	},
+	{
+		"abr": "tribalcarpet2x1",
+		"price": 141,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetAC"
+	},
+	{
+		"abr": "tribalcarpet2x2",
+		"price": 282,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetAE"
+	},
+	{
+		"abr": "tribalcarpet2x2",
+		"price": 282,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetAF"
+	},
+	{
+		"abr": "tribalcarpet3x3",
+		"price": 633,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetAH"
+	},
+	{
+		"abr": "tribalcarpet3x3",
+		"price": 633,
+		"category": "Furniture",
+		"defname": "SadjuukCarpetAI"
+	},
+	{
+		"abr": "turbineblades",
+		"price": 2,
+		"category": "Rimatomics Product",
+		"defname": "turbineBlade"
+	},
+	{
+		"abr": "advancedbattery",
+		"price": 842,
+		"category": "Power",
+		"defname": "VFE_AdvancedBattery"
+	},
+	{
+		"abr": "advancedbed",
+		"price": 850,
+		"category": "Furniture",
+		"defname": "Bed_AdvBed"
+	},
+	{
+		"abr": "advancedchair",
+		"price": 1183,
+		"category": "Furniture",
+		"defname": "Seat_AdvChair"
+	},
+	{
+		"abr": "advanceddoublebed",
+		"price": 1517,
+		"category": "Furniture",
+		"defname": "Bed_AdvDoubleBed"
+	},
+	{
+		"abr": "amethyst",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Amethyst"
+	},
+	{
+		"abr": "ammocrate",
+		"price": 533,
+		"category": "Furniture",
+		"defname": "VFES_AmmoCrate"
+	},
+	{
+		"abr": "animalfeeder",
+		"price": 87,
+		"category": "Furniture",
+		"defname": "VFE_AnimalFeeder"
+	},
+	{
+		"abr": "arcademachine",
+		"price": 650,
+		"category": "Recreation",
+		"defname": "Joy_Arcade"
+	},
+	{
+		"abr": "archotechsculpture",
+		"price": 5000,
+		"category": "Art",
+		"defname": "VFE_ArchotechSculpture"
+	},
+	{
+		"abr": "archotechshieldgenerator",
+		"price": 4667,
+		"category": "Special",
+		"defname": "VFES_ShieldGenerator_Archotech"
+	},
+	{
+		"abr": "archotechviolencegenerator",
+		"price": 5667,
+		"category": "Special",
+		"defname": "VPE_ArchotechViolenceGenerator"
+	},
+	{
+		"abr": "artillery",
+		"price": 1408,
+		"category": "Security",
+		"defname": "VFES_Turret_Artillery"
+	},
+	{
+		"abr": "banner",
+		"price": 312,
+		"category": "Furniture",
+		"defname": "VFEPD_Banner"
+	},
+	{
+		"abr": "beartrap",
+		"price": 236,
+		"category": "Security",
+		"defname": "VFES_BearTrap"
+	},
+	{
+		"abr": "bench",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "Seat_Bench"
+	},
+	{
+		"abr": "biolabsunlamp",
+		"price": 1650,
+		"category": "Furniture",
+		"defname": "Spacer_SunLamp"
+	},
+	{
+		"abr": "cagebrazier",
+		"price": 16,
+		"category": "Furniture",
+		"defname": "VFEPD_CageBrazier"
+	},
+	{
+		"abr": "carving",
+		"price": 342,
+		"category": "Art",
+		"defname": "VFE_Carving"
+	},
+	{
+		"abr": "chalcedony",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Chalcedony"
+	},
+	{
+		"abr": "chargeturret",
+		"price": 1342,
+		"category": "Security",
+		"defname": "VFES_Turret_ChargeTurret"
+	},
+	{
+		"abr": "chemfuelbarrel",
+		"price": 296,
+		"category": "Security",
+		"defname": "VFES_ChemfuelBarrel"
+	},
+	{
+		"abr": "citrine",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Citrine"
+	},
+	{
+		"abr": "coffeetable(1x1)",
+		"price": 102,
+		"category": "Furniture",
+		"defname": "VFEPD_CoffeeTableSmall"
+	},
+	{
+		"abr": "coffeetable(2x1)",
+		"price": 103,
+		"category": "Furniture",
+		"defname": "VFEPD_CoffeeTable"
+	},
+	{
+		"abr": "countertop",
+		"price": 53,
+		"category": "Furniture",
+		"defname": "Table_Counter"
+	},
+	{
+		"abr": "cryptosleepsuspender",
+		"price": 767,
+		"category": "Furniture",
+		"defname": "Bed_CryptoBed"
+	},
+	{
+		"abr": "dartsboard",
+		"price": 174,
+		"category": "Furniture",
+		"defname": "Joy_DartsBoard"
+	},
+	{
+		"abr": "decorativeplantpot",
+		"price": 143,
+		"category": "Art",
+		"defname": "VFE_DecorativePlantPot"
+	},
+	{
+		"abr": "decoy",
+		"price": 140,
+		"category": "Security",
+		"defname": "VFES_Turret_Decoy"
+	},
+	{
+		"abr": "deployableturret",
+		"price": 833,
+		"category": "Security",
+		"defname": "VFES_Turret_FloorTurret"
+	},
+	{
+		"abr": "desk",
+		"price": 138,
+		"category": "Furniture",
+		"defname": "VFEPD_Desk"
+	},
+	{
+		"abr": "diamond",
+		"price": 83,
+		"category": "Gemstones",
+		"defname": "Z_Diamond"
+	},
+	{
+		"abr": "drugcabinet",
+		"price": 725,
+		"category": "Misc",
+		"defname": "VFE_DrugCabinet"
+	},
+	{
+		"abr": "electricbutcher",
+		"price": 492,
+		"category": "Production",
+		"defname": "VFE_TableButcherElectric"
+	},
+	{
+		"abr": "electricdruglab",
+		"price": 1308,
+		"category": "Production",
+		"defname": "VFE_TableDrugLabElectric"
+	},
+	{
+		"abr": "electricstonecutter'stable",
+		"price": 1033,
+		"category": "Production",
+		"defname": "VFE_TableStonecutterElectric"
+	},
+	{
+		"abr": "emerald",
+		"price": 60,
+		"category": "Gemstones",
+		"defname": "Z_Emerald"
+	},
+	{
+		"abr": "emptybrazier",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "VFEPD_BrazierEmpty"
+	},
+	{
+		"abr": "ergonomicbed",
+		"price": 450,
+		"category": "Furniture",
+		"defname": "Bed_Ergonomic"
+	},
+	{
+		"abr": "ergonomicchair",
+		"price": 858,
+		"category": "Furniture",
+		"defname": "Seat_ModernChair"
+	},
+	{
+		"abr": "ergonomicdoublebed",
+		"price": 867,
+		"category": "Furniture",
+		"defname": "Bed_DoubleErgonomic"
+	},
+	{
+		"abr": "fabricationcabinet",
+		"price": 433,
+		"category": "Misc",
+		"defname": "VFE_FabricationCabinet"
+	},
+	{
+		"abr": "filecabinet",
+		"price": 93,
+		"category": "Furniture",
+		"defname": "Misc_FileCabinet"
+	},
+	{
+		"abr": "flameturret",
+		"price": 1117,
+		"category": "Security",
+		"defname": "VFES_Turret_Flame"
+	},
+	{
+		"abr": "fueledsmelter",
+		"price": 475,
+		"category": "Production",
+		"defname": "VFE_FueledSmelter"
+	},
+	{
+		"abr": "garnet",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Garnet"
+	},
+	{
+		"abr": "gasfloodlight",
+		"price": 255,
+		"category": "Furniture",
+		"defname": "VPE_GasFloodlight"
+	},
+	{
+		"abr": "gasheater",
+		"price": 218,
+		"category": "Temperature",
+		"defname": "VPE_GasHeater"
+	},
+	{
+		"abr": "gaspoweredexcavator",
+		"price": 408,
+		"category": "Production",
+		"defname": "VPE_GasDrill"
+	},
+	{
+		"abr": "gassunlamp",
+		"price": 160,
+		"category": "Furniture",
+		"defname": "VPE_GasSunLamp"
+	},
+	{
+		"abr": "gastank",
+		"price": 266,
+		"category": "Power",
+		"defname": "VPE_GasTank"
+	},
+	{
+		"abr": "gaswalllight",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasWallLight"
+	},
+	{
+		"abr": "grandrug",
+		"price": 883,
+		"category": "Art",
+		"defname": "VFE_RugGrand"
+	},
+	{
+		"abr": "grandstatue",
+		"price": 1125,
+		"category": "Art",
+		"defname": "VFE_StatueGrand"
+	},
+	{
+		"abr": "helixiengassmelter",
+		"price": 667,
+		"category": "Production",
+		"defname": "VPE_GasSmelter"
+	},
+	{
+		"abr": "helixiengassmithy",
+		"price": 492,
+		"category": "Production",
+		"defname": "VPE_GasSmithy"
+	},
+	{
+		"abr": "helixiengasstove",
+		"price": 375,
+		"category": "Production",
+		"defname": "VPE_GasStove"
+	},
+	{
+		"abr": "hologrambase",
+		"price": 475,
+		"category": "Art",
+		"defname": "HologramBase"
+	},
+	{
+		"abr": "illuminateddresser",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "Table_IlluminatedDresser"
+	},
+	{
+		"abr": "illuminatedendtable",
+		"price": 296,
+		"category": "Furniture",
+		"defname": "Table_IlluminatedEndTable"
+	},
+	{
+		"abr": "industrialradio",
+		"price": 600,
+		"category": "Recreation",
+		"defname": "Radio_Industrial"
+	},
+	{
+		"abr": "interactivetable(1x1)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "Table_interactive_1x1c"
+	},
+	{
+		"abr": "interactivetable(2x2)",
+		"price": 933,
+		"category": "Furniture",
+		"defname": "Table_interactive_2x2c"
+	},
+	{
+		"abr": "intravenousdripstand",
+		"price": 316,
+		"category": "Misc",
+		"defname": "Facility_IVDrip"
+	},
+	{
+		"abr": "kitchensinkcabinet",
+		"price": 327,
+		"category": "Misc",
+		"defname": "VFE_KitchenSinkCabinet"
+	},
+	{
+		"abr": "lampendtable",
+		"price": 169,
+		"category": "Furniture",
+		"defname": "Table_LightEndTable"
+	},
+	{
+		"abr": "landmine",
+		"price": 261,
+		"category": "Security",
+		"defname": "VFES_Landmine"
+	},
+	{
+		"abr": "lapis",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Lapis"
+	},
+	{
+		"abr": "largeadvancedbattery",
+		"price": 1642,
+		"category": "Power",
+		"defname": "VFE_LargeAdvancedBattery"
+	},
+	{
+		"abr": "largebattery",
+		"price": 758,
+		"category": "Power",
+		"defname": "VFE_LargeBattery"
+	},
+	{
+		"abr": "largebin",
+		"price": 305,
+		"category": "Furniture",
+		"defname": "Bin_Large"
+	},
+	{
+		"abr": "largerug",
+		"price": 492,
+		"category": "Art",
+		"defname": "VFE_RugLarge"
+	},
+	{
+		"abr": "largestatue",
+		"price": 583,
+		"category": "Art",
+		"defname": "VFE_StatueLarge"
+	},
+	{
+		"abr": "largevanometricpowercell",
+		"price": 4000,
+		"category": "Special",
+		"defname": "VFE_LargeVanometricPowerCell"
+	},
+	{
+		"abr": "lightningrod",
+		"price": 667,
+		"category": "Special",
+		"defname": "VPE_LightningRod"
+	},
+	{
+		"abr": "longwaveradio",
+		"price": 1033,
+		"category": "Recreation",
+		"defname": "Radio_Spacer"
+	},
+	{
+		"abr": "machiningcabinet",
+		"price": 483,
+		"category": "Misc",
+		"defname": "VFE_MachiningCabinet"
+	},
+	{
+		"abr": "militaryturret",
+		"price": 842,
+		"category": "Security",
+		"defname": "VFES_Turret_MilitaryTurret"
+	},
+	{
+		"abr": "moderncomputer",
+		"price": 1100,
+		"category": "Recreation",
+		"defname": "Joy_ModernComputer"
+	},
+	{
+		"abr": "modernlamp",
+		"price": 129,
+		"category": "Furniture",
+		"defname": "Light_ModernLamp"
+	},
+	{
+		"abr": "obelisk",
+		"price": 775,
+		"category": "Art",
+		"defname": "VFE_Obelisk"
+	},
+	{
+		"abr": "oldcomputer",
+		"price": 517,
+		"category": "Recreation",
+		"defname": "Joy_InudstrialComputer"
+	},
+	{
+		"abr": "operatingtable",
+		"price": 483,
+		"category": "Furniture",
+		"defname": "Bed_OperatingTable"
+	},
+	{
+		"abr": "outdoorlamp",
+		"price": 128,
+		"category": "Furniture",
+		"defname": "Light_Streetlamp"
+	},
+	{
+		"abr": "outdoorsolarlamp",
+		"price": 199,
+		"category": "Furniture",
+		"defname": "Spacer_OutdoorLamp"
+	},
+	{
+		"abr": "pillar",
+		"price": 450,
+		"category": "Art",
+		"defname": "VFE_Pillar"
+	},
+	{
+		"abr": "plinth",
+		"price": 442,
+		"category": "Art",
+		"defname": "VFE_Plinth"
+	},
+	{
+		"abr": "portablechemfuelpoweredgenerator",
+		"price": 242,
+		"category": "Power",
+		"defname": "VFE_PortableChemfuelPoweredGenerator"
+	},
+	{
+		"abr": "portablewood-firedgenerator",
+		"price": 189,
+		"category": "Power",
+		"defname": "VFE_PortableWoodFiredGenerator"
+	},
+	{
+		"abr": "pottery",
+		"price": 143,
+		"category": "Art",
+		"defname": "VFE_Pottery"
+	},
+	{
+		"abr": "psychicpylon",
+		"price": 2167,
+		"category": "Special",
+		"defname": "VFES_PsychicPylon"
+	},
+	{
+		"abr": "punchingbag",
+		"price": 375,
+		"category": "Furniture",
+		"defname": "Joy_PunchingBag"
+	},
+	{
+		"abr": "quartz",
+		"price": 3,
+		"category": "Gemstones",
+		"defname": "Z_Quartz"
+	},
+	{
+		"abr": "relief",
+		"price": 1983,
+		"category": "Art",
+		"defname": "VFE_Relief"
+	},
+	{
+		"abr": "repairshelf",
+		"price": 2933,
+		"category": "Furniture",
+		"defname": "Shelf_RepairRack"
+	},
+	{
+		"abr": "roulettetable",
+		"price": 708,
+		"category": "Furniture",
+		"defname": "Joy_RouletteTable"
+	},
+	{
+		"abr": "royalarmchair",
+		"price": 1583,
+		"category": "Furniture",
+		"defname": "Seat_RoyalArmchair"
+	},
+	{
+		"abr": "royalchair",
+		"price": 908,
+		"category": "Furniture",
+		"defname": "Seat_RoyalChair"
+	},
+	{
+		"abr": "royaldresser",
+		"price": 1175,
+		"category": "Furniture",
+		"defname": "Table_RoyalDresser"
+	},
+	{
+		"abr": "royalendtable",
+		"price": 742,
+		"category": "Furniture",
+		"defname": "Table_RoyalEndTable"
+	},
+	{
+		"abr": "royalposterbed",
+		"price": 2008,
+		"category": "Furniture",
+		"defname": "Bed_Kingsize"
+	},
+	{
+		"abr": "royaltable(1x1)",
+		"price": 280,
+		"category": "Furniture",
+		"defname": "Table_Royal1x1c"
+	},
+	{
+		"abr": "royaltable(1x2)",
+		"price": 542,
+		"category": "Furniture",
+		"defname": "Table_Royal1x2c"
+	},
+	{
+		"abr": "royaltable(2x2)",
+		"price": 1092,
+		"category": "Furniture",
+		"defname": "Table_Royal2x2c"
+	},
+	{
+		"abr": "royaltable(2x4)",
+		"price": 1475,
+		"category": "Furniture",
+		"defname": "Table_Royal2x4c"
+	},
+	{
+		"abr": "royaltable(3x3)",
+		"price": 1617,
+		"category": "Furniture",
+		"defname": "Table_Royal3x3c"
+	},
+	{
+		"abr": "ruby",
+		"price": 60,
+		"category": "Gemstones",
+		"defname": "Z_Ruby"
+	},
+	{
+		"abr": "sapphire",
+		"price": 60,
+		"category": "Gemstones",
+		"defname": "Z_Sapphire"
+	},
+	{
+		"abr": "scarecrow",
+		"price": 129,
+		"category": "Misc",
+		"defname": "VFE_Scarecrow"
+	},
+	{
+		"abr": "searchlight",
+		"price": 608,
+		"category": "Security",
+		"defname": "VFES_Turret_Searchlight"
+	},
+	{
+		"abr": "sentrygun",
+		"price": 1058,
+		"category": "Security",
+		"defname": "VFES_Turret_SentryGun"
+	},
+	{
+		"abr": "serpentine",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Serpentine"
+	},
+	{
+		"abr": "shelf(1x1)",
+		"price": 52,
+		"category": "Furniture",
+		"defname": "Shelf_1x1c"
+	},
+	{
+		"abr": "simplebed",
+		"price": 137,
+		"category": "Furniture",
+		"defname": "Bed_Simple"
+	},
+	{
+		"abr": "sittingcushion",
+		"price": 86,
+		"category": "Furniture",
+		"defname": "Seat_Cushion"
+	},
+	{
+		"abr": "slabbed",
+		"price": 111,
+		"category": "Furniture",
+		"defname": "Bed_StoneSlab"
+	},
+	{
+		"abr": "smallbattery",
+		"price": 201,
+		"category": "Power",
+		"defname": "VFE_SmallBattery"
+	},
+	{
+		"abr": "smallbin",
+		"price": 136,
+		"category": "Furniture",
+		"defname": "Bin_Small"
+	},
+	{
+		"abr": "smallrug",
+		"price": 184,
+		"category": "Art",
+		"defname": "VFE_RugSmall"
+	},
+	{
+		"abr": "smallshieldgenerator",
+		"price": 4050,
+		"category": "Security",
+		"defname": "VFES_ShieldGenerator_Small"
+	},
+	{
+		"abr": "smallstatue",
+		"price": 275,
+		"category": "Art",
+		"defname": "VFE_StatueSmall"
+	},
+	{
+		"abr": "smallvanometricpowercell",
+		"price": 667,
+		"category": "Special",
+		"defname": "VFE_SmallVanometricPowerCell"
+	},
+	{
+		"abr": "smithingcabinet",
+		"price": 450,
+		"category": "Misc",
+		"defname": "VFE_SmithyCabinet"
+	},
+	{
+		"abr": "spacerlamp",
+		"price": 199,
+		"category": "Furniture",
+		"defname": "Light_SpacerLamp"
+	},
+	{
+		"abr": "sprinkler",
+		"price": 182,
+		"category": "Misc",
+		"defname": "VFE_Sprinkler"
+	},
+	{
+		"abr": "squarechair",
+		"price": 198,
+		"category": "Furniture",
+		"defname": "Seat_SquareChair"
+	},
+	{
+		"abr": "standinggaslamp",
+		"price": 65,
+		"category": "Furniture",
+		"defname": "VPE_GasLamp"
+	},
+	{
+		"abr": "table(1x1)",
+		"price": 70,
+		"category": "Furniture",
+		"defname": "Table_1x1c"
+	},
+	{
+		"abr": "tailorcabinet",
+		"price": 307,
+		"category": "Misc",
+		"defname": "VFE_TailorCabinet"
+	},
+	{
+		"abr": "turquoise",
+		"price": 7,
+		"category": "Gemstones",
+		"defname": "Z_Turquoise"
+	},
+	{
+		"abr": "twistedmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_Mutant_Twisted"
+	},
+	{
+		"abr": "ultrascreentelevision",
+		"price": 3300,
+		"category": "Recreation",
+		"defname": "UltrascreenTV"
+	},
+	{
+		"abr": "unionjack",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerAY"
+	},
+	{
+		"abr": "unionjack",
+		"price": 94,
+		"category": "Furniture",
+		"defname": "SadjuukHighBannerBY"
+	},
+	{
+		"abr": "unityguardcloak",
+		"price": 167,
+		"category": "Apparel",
+		"defname": "Apparel_UGCloak"
+	},
+	{
+		"abr": "bardiche",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Bardiche"
+	},
+	{
+		"abr": "bōstaff",
+		"price": 248,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Bo_Staff"
+	},
+	{
+		"abr": "brassknuckles",
+		"price": 171,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Brass_Knuckles"
+	},
+	{
+		"abr": "claymore",
+		"price": 567,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Claymore"
+	},
+	{
+		"abr": "doormat",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatLeather"
+	},
+	{
+		"abr": "doormat(blue)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBlue"
+	},
+	{
+		"abr": "doormat(green)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatGreen"
+	},
+	{
+		"abr": "doormat(orange)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatOrange"
+	},
+	{
+		"abr": "doormat(red)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatRed"
+	},
+	{
+		"abr": "doormat(teal)",
+		"price": 8,
+		"category": "Furniture",
+		"defname": "LT_DoorMatTeal"
+	},
+	{
+		"abr": "flail",
+		"price": 392,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Flail"
+	},
+	{
+		"abr": "glaive",
+		"price": 358,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Glaive"
+	},
+	{
+		"abr": "greataxe",
+		"price": 508,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Great_Axe"
+	},
+	{
+		"abr": "katana",
+		"price": 492,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Katana"
+	},
+	{
+		"abr": "kukri",
+		"price": 162,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Kukri"
+	},
+	{
+		"abr": "kunai",
+		"price": 88,
+		"category": "Ranged weapons",
+		"defname": "RangedWeapon_Kunai"
+	},
+	{
+		"abr": "largedoormat",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigLeather"
+	},
+	{
+		"abr": "largedoormat(blue)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigBlue"
+	},
+	{
+		"abr": "largedoormat(green)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigGreen"
+	},
+	{
+		"abr": "largedoormat(orange)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigOrange"
+	},
+	{
+		"abr": "largedoormat(red)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigRed"
+	},
+	{
+		"abr": "largedoormat(teal)",
+		"price": 13,
+		"category": "Furniture",
+		"defname": "LT_DoorMatBigTeal"
+	},
+	{
+		"abr": "maul",
+		"price": 483,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Maul"
+	},
+	{
+		"abr": "morningstar",
+		"price": 322,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Morning_Star"
+	},
+	{
+		"abr": "naginata",
+		"price": 350,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Naginata"
+	},
+	{
+		"abr": "nunchaku",
+		"price": 206,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Nunchaku"
+	},
+	{
+		"abr": "primitiveknife",
+		"price": 91,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Primitive_Knife"
+	},
+	{
+		"abr": "sabre",
+		"price": 289,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Sabre"
+	},
+	{
+		"abr": "scythe",
+		"price": 442,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Scythe"
+	},
+	{
+		"abr": "tonfa",
+		"price": 183,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_Tonfa"
+	},
+	{
+		"abr": "unityguardcuraiss",
+		"price": 1742,
+		"category": "Apparel",
+		"defname": "Apparel_UGCuirass"
+	},
+	{
+		"abr": "advancedbedintegrator",
+		"price": 2958,
+		"category": "Buildings",
+		"defname": "GNAdvancedBedIntegrator"
+	},
+	{
+		"abr": "advancedglitternetprocessor",
+		"price": 16758,
+		"category": "Buildings",
+		"defname": "GNAdvancedGlitterNetProcessor"
+	},
+	{
+		"abr": "advancedmedicalintegrator",
+		"price": 2958,
+		"category": "Buildings",
+		"defname": "GNAdvancedMedicalIntegrator"
+	},
+	{
+		"abr": "advancedpowerintegrator",
+		"price": 2958,
+		"category": "Buildings",
+		"defname": "GNAdvancedPowerIntegrator"
 	}
 	],
-	"total": 1832
+	"total": 2240
 }
